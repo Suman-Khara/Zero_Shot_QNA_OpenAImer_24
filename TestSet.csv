@@ -1,0 +1,1078 @@
+,ID,QUESTION
+0,12476874168,"The 4-point DFTs of two sequences 𝑥[𝑛] and 𝑦[𝑛] are 𝑋[𝑘] = [1,−𝑗, 1,𝑗] and 𝑌[𝑘] = [1, 3𝑗, 1,−3𝑗], respectively. Assuming 𝑧[𝑛] represents the 4-point circular convolution of 𝑥[𝑛] and 𝑦[𝑛], the value of 𝑧[0] is __________ (rounded off to nearest integer)."
+1,12476874169,"Consider the figure shown. For zero deflection in the galvanometer, the required value of resistor Rx is ____ Ω"
+2,12476874170,"Consider a unity negative feedback system with its open-loop pole-zero map as shown in the figure. If the point 𝑠 = 𝑗𝛼, 𝛼 > 0, lies on the root locus, the value of 𝛼 is ________"
+3,12476874171,"A shielded cable with Cstray = 20 pF and Rwire = 10 Ω is used to connect the inductive
+sensors as shown in the figure. The RMS value of Vout is ____V"
+4,12476874172,"An ADC has a full scale voltage of 1.4 V, resolution of 200 mV, and produces binary output data. The input signal of the ADC has a bandwidth of 500 MHz, and it samples the data at the Nyquist rate. The parallel data output is converted to a serial bit stream using a parallel-to-serial converter. The data rate at the output of the parallel-to-serial converter is _____ Gbps"
+5,12476874173,"In the circuit shown, assume the opamp is ideal and the initial charge on the capacitor is zero. The output voltage at time t = 2 ms is _____ V"
+6,12476874174,"In the figure shown, SW is a switch whose position changes from 1 to 0 when VC changes from logic HIGH to LOW and vice versa. The bandwidth of the permanent magnet moving coil (PMMC) type voltmeter is 1 Hz. If Vsense = 2 sin(4000πt) V and Vref = 4 sin(2000πt) V, the voltmeter reading is ______V"
+7,12476874175,A 50 kVA transformer has an efficiency of 95% at full load and unity power factor. Assume the core losses are negligible. The efficiency of the transformer at 75% of the full load and 0.8 power factor is ________%
+8,12476874176,"Two magnetically coupled coils, when connected in series-aiding configuration, have a total inductance of 500 mH. When connected in series-opposing configuration, the coils have a total inductance of 300 mH. If the self-inductance of both the coils are equal, then the coupling coefficient is ________"
+9,12476874177,"4 The solution of an ordinary differential equation 𝑦 ′′′ + 3𝑦 ′′ + 3𝑦 ′ + 𝑦 = 30𝑒 −𝑡 is 𝑦(𝑡) = (𝑐0 + 𝑐1 𝑡 − 𝑐2 𝑡 2 + 𝑐3 𝑡 3 )𝑒 −𝑡 Given 𝑦(0) = 3, 𝑦 ′ (0) = −3 and 𝑦 ′′(0) = −47, the value of (𝑐0 + 𝑐1 + 𝑐2 + 𝑐3 ) is __________(rounded off to nearest integer)."
+10,12476874178,"A random variable 𝑋 has a probability density function 𝑓𝑋 (𝑥) = { 𝑒 −𝑥 , 𝑥 ≥ 0 0 , otherwise The probability of 𝑋 > 2 is ___________"
+11,12476874179,"The return period of a large earthquake for a given region is 200 years. Assuming
+that earthquake occurrence follows Poisson’s distribution, the probability that it
+will be exceeded at least once in 50 years is ________________ % "
+12,12476874180,"A 2 m × 2 m tank of 3 m height has inflow, outflow and stirring mechanisms. Initially, the tank was half-filled with fresh water. At t = 0, an inflow of a salt solution of concentration 5 g/m3 at the rate of 2 litre/s and an outflow of the well stirred mixture at the rate of 1 litre/s are initiated. This process can be modelled using the following differential equation: 𝑑𝑚 𝑑𝑡 + 𝑚 6000 + 𝑡 = 0.01 where m is the mass (grams) of the salt at time t (seconds). The mass of the salt (in grams) in the tank at 75% of its capacity is _____________"
+13,12476874181,"The initial cost of an equipment is Rs. 1,00,000. Its salvage value at the end of accounting life of 5 years is Rs. 10,000. The difference in depreciation (in Rs.) computed using ‘double-declining balance method’ and ‘straight line method’ of depreciation in Year-2 is _____________ (in positive integer)"
+14,12476874182,A slab panel with an effective depth of 250 mm is reinforced with 0.2% main reinforcement using 8 mm diameter steel bars. The uniform center-to-center spacing (in mm) at which the 8 mm diameter bars are placed in the slab panel is
+15,12476874183,"The total primary consolidation settlement (𝑆𝑐) of a building constructed on a 10 m thick saturated clay layer is estimated to be 50 mm. After 300 days of the construction of the building, primary consolidation settlement was reported as 10 mm. The additional time (in days) required to achieve 50% of 𝑆𝑐 will be"
+16,12476874184,"An infinite slope is made up of cohesionless soil with seepage parallel to and up to the sloping surface. The angle of slope is 30 with respect to horizontal ground surface. The unit weights of the saturated soil and water are 20 kN/m3 and 10 kN/m3 , respectively. The minimum angle of shearing resistance of the soil (in degrees) for the critically stable condition of the slope is _____________"
+17,12476874185,A soil sample was consolidated at a cell pressure of 20 kPa and a back pressure of 10 kPa for 24 hours during a consolidated undrained (CU) triaxial test. The cell pressure was increased to 30 kPa on the next day and it resulted in the development of pore water pressure of 1 kPa. The soil sample failed when the axial stress was gradually increased to 50 kPa. The pore water pressure at failure was recorded as 21 kPa. The value of Skempton’s pore pressure parameter B for the soil sample is ______________
+18,12476874186,A spillway has unit discharge of 7.5 m3 /s/m. The flow depth at the downstream horizontal apron is 0.5 m. The tail water depth (in meters) required to form a hydraulic jump is __________ (rounded off to 2 decimal places).
+19,12476874187,"Activated carbon is used to remove a pollutant from wastewater in a mixed batch reactor, which follows first-order reaction kinetics. At a reaction rate of 0.38 /day, the time (in days) required to remove the pollutant by 95% is ______________ (rounded off to 1 decimal place)."
+20,12476874188,"A water treatment plant treats 25 MLD water with a natural alkalinity of 4.0 mg/L (as CaCO3). It is estimated that, during coagulation of this water, 450 kg/day of calcium bicarbonate (Ca(HCO3)2) is required based on the alum dosage. Consider the atomic weights as: Ca-40, H-1, C-12, O-16. The quantity of pure quick lime, CaO (in kg) required for this process per day is"
+21,12476874189,"The number of trains and their corresponding speeds for a curved Broad Gauge section with 437 m radius, are • 20 trains travel at a speed of 40 km/hr • 15 trains travel at a speed of 50 km/hr • 12 trains travel at a speed of 60 km/hr • 8 trains travel at a speed of 70 km/hr • 3 trains travel at a speed of 80 km/hr If the gauge (center-to-center distance between the rail heads) is taken as 1750 mm, the required equilibrium cant (in mm) will be ______________"
+22,12476874190,The following data is obtained from an axle load survey at a site: Average rear axle load = 12000 kg Number of commercial vehicles = 800 per day The pavement at this site would be reconstructed over a period of 5 years from the date of survey. The design life of the reconstructed pavement is 15 years. Use the standard axle load as 8160 kg and the annual average vehicle growth rate as 4.0%. Assume that Equivalent Wheel Load Factor (EWLF) and Vehicle Damage Factor (VDF) are equal. The cumulative standard axle (in msa) for the pavement design is ____________ (rounded off to 2 decimal places)
+23,12476874191,"A bird is resting on a point P at a height of 8 m above the Mean Sea Level (MSL). Upon hearing a loud noise, the bird flies parallel to the ground surface and reaches a point Q which is located at a height of 3 m above MSL. The ground surface has a falling gradient of 1 in 2. Ignoring the effects of curvature and refraction, the horizontal distance (in meters) between points P and Q is _______________ (in integer)"
+29,12476874197,"In the following series, identify the number that needs to be changed to form the Fibonacci series. 1, 1, 2, 3, 6, 8, 13, 21,…"
+30,12476874198,"Find the odd one out in the set: {19, 37, 21, 17, 23, 29, 31, 11}"
+31,12476874199,"The real variables 𝑥, 𝑦, 𝑧, and the real constants 𝑝, 𝑞, 𝑟 satisfy 𝑥 𝑝𝑞 − 𝑟 2 = 𝑦 𝑞𝑟 − 𝑝 2 = 𝑧 𝑟𝑝 − 𝑞 2 Given that the denominators are non-zero, the value of 𝑝𝑥 + 𝑞𝑦 + 𝑟𝑧 is"
+32,12476874200,"Take two long dice (rectangular parallelepiped), each having four rectangular faces labelled as 2, 3, 5, and 7. If thrown, the long dice cannot land on the square faces and has 1/4 probability of landing on any of the four rectangular faces. The label on the top face of the dice is the score of the throw. If thrown together, what is the probability of getting the sum of the two long dice scores greater than 11?"
+33,12476874201,"Four equilateral triangles are used to form a regular closed three-dimensional object
+by joining along the edges. The angle between any two faces is"
+34,12476874202,A distance was measured as 200 m ± 0.1 m. The relative precision of this measurement is
+35,12476874203,How many NAVSTAR GPS satellites in standard constellation are operational and provide uninterrupted service?
+36,12476874204,The wavelength at which maximum energy is radiated or emitted from the forest fire at temperature of 700 °C is ______ µm (rounded off to one decimal place).
+37,12476874205,The standard error of a unit weight for a set of angle observations is 10″. The minimum number of observations required to reduce the standard error of the mean for this set of observations to 2″ is ______ (in integer).
+38,12476874206,"An angle is observed independently twice, and the values are as follows:
+60°30′10′′ ± 10′′
+60°30′20′′ ± 20′′
+The most probable value (MPV) of the angle is (give in 6 digits form)"
+39,12476874207,"To reduce the slope distance (S) to an equivalent horizontal distance (H) as shown
+in the figure given below, the following independent observations were taken.
+𝑆 = 29.95 m ± 0.01 m; 𝜃 = 430′ ± 10'
+The required precision of computed horizontal distance is ± 0.005 m. Assume a
+“balanced accuracy” where the contribution to precision of the horizontal distance
+comes equally from the slope distance and angle measurements. The minimum
+number of angle observations to achieve the desired precision is
+(Given 1 radian = 206265 seconds)"
+40,12476874208,"Using the following data, the spatial resolution of a push-broom sensor
+is ______ m (in integer).
+Data:
+Orbital altitude (above earth surface) = 1000 km
+Number of spectral bands = 5
+Number of detectors/CCDs (charged coupled devices) in a row = 4000
+ Ground swath = 20 km"
+41,12476874209,"If the plotting accuracy of a map is 0.25 mm and the scale of the same map is 1:100000, what will be the minimum ground distance that can be plotted on the map?"
+42,12476874210,"Consider a point A on the surface of Earth, its elevation with respect to EGM2008
+(geoid) is 95.5 m. The geoidal undulation at point A is 4.5 m. The orthometric height
+of point A is ______ m (rounded off to one decimal place). "
+43,12476874211,"If the longitudinal overlap in aerial photographs is kept as 65%, the common overlap (superlap) between three successive photographs is ________ % (in integer)."
+44,12476874212,"The Representative Fraction (RF) of the graphical scale given below is 1/X, where X is ______ (in integer)."
+45,12476874213,The combined correction for curvature of Earth and refraction in levelling for a distance of 6 km would be ______ m (rounded off to two decimal places). Assume the radius of earth is 6370 km.(give mod value)
+46,12476874214,"In tangential method of tacheometry, two vanes in a staff were fixed at a distance
+of 1.0 m with the bottom vane fixed at 1.0 m. The levelling staff was held vertical
+at a point P and the vertical angles of the vanes observed were 5°30′ and 3°15′,
+respectively. The vertical distance between the instrument axis and the bottom vane
+would be _____ m (rounded off to two decimal places)"
+47,12476874215,"A line measures 15 cm on an aerial photograph, while it measures 5 cm on a map at 1:24000 scale. The photograph was taken using a camera lens of 20 cm focal length. Average elevation of terrain is 240 m above mean sea level. The flying height of the aircraft above mean sea level is______ m (in integer)."
+48,12476874216,"A high tower appeared on an aerial photograph taken at 1000 m above mean sea
+level with a camera lens of 15 cm focal length. The radial distances of the top and
+bottom images of the tower from principal point of photograph are 92.6 mm and
+78.3 mm, respectively. If the average elevation of terrain is 300 m above mean sea
+level, then the height of the tower above ground is ______ m (rounded off to the
+nearest integer). "
+49,12476874217,"A four-band multispectral image of size 64 × 64 pixels has 560 header bytes. The
+per pixel depth of the image is 2 bytes. The total number of bytes required to store
+this image on the disk in the Band Interleaved by Line (BIL) format will be"
+50,12476874218,"A four-band multispectral image with pixel size of 50 m × 50 m covers a ground
+area of 20 km × 20 km. If the radiometric resolution of the satellite data is 8 bits,
+then the uncompressed satellite image contains ______ kilobytes (kB) of data (in
+integer)."
+51,12476874219,"In spatial interpolation using coordinate transformations for image-to-map
+rectification, the minimum number of ground control points (GCPs) required to
+perform a third-order transformation is ______ (in integer). "
+52,12476874220,"In an image with 6-bit quantization level, the pixel values of a scene are between 25 and 55. A linear contrast stretch is applied to the image covering the full dynamic range. A pixel value 40 in the original image will be mapped to ______ (rounded off to nearest integer) in the stretched image."
+53,12476874221,The ionic strength of a solution containing 0.01M of CaCl2 and 0.001M of Na2SO4 is ________ M (rounded off to 3 decimal places).
+54,12476874222,The concentration of Ozone corresponding to a mixing ratio of 120 ppbv at pressure of 1 atmosphere and temperature of 25°C is ________ µg/m3 (rounded off to 1 decimal place). Atomic weight of oxygen = 16; R= 8.314 J/K-g.mole.
+55,12476874223,One million liters per day (MLD) of wastewater with a soluble BOD of 200 mg/L is treated in an activated sludge process. The BOD of treated wastewater is 20 mg/L. The observed yield coefficient of the biological system is 0.35. The daily biomass generation in the system is ________ kg (an integer value).
+56,12476874224,"An industry discharges 2 million liters per day (MLD) of wastewater with a temperature of 45℃ and a pH of 2, whereas the neighboring industry produces 3 MLD of wastewater with a temperature of 30℃ and pH of 8. If both the wastewaters are mixed and carried through a pipeline, then the resultant pH of mixed wastewater is ________ (rounded off to 2 decimal places). Neglect buffering capacity of the system and the temperature effect on pH."
+57,12476874225,"In a cyclone separator of radius 25 cm, a particle is travelling with a gas stream at velocity of 18 m/s. The ratio of centrifugal force to the gravitational force acting on the particle is _______ (rounded off to 2 decimal places). Consider acceleration due to gravity (g) as 9.8 m/s2 ."
+58,12476874226,"For a biodegradable waste with a chemical formula C50H100O40N, the maximum theoretical methane production per ton of waste is _______ kg (rounded off to 2 decimal places). Assume 100% anaerobic conversion. Atomic weights of C-12; H-1; O-16; N-14"
+59,12476874227,"A person consumes 2.5 liters of water per day. The water quality test indicated that the supplied water has a Pb concentration of 0.6 mg/L. If the weight of the person is 75 kg, the exposure level for Pb for this person from this drinking water source is _______mg/kg/day (rounded off to 2 decimal places)."
+60,12476874228,"In a region, total annual consumption of gasoline is 30.6 million tons. The land required for growing sugarcane to produce enough bioethanol to replace the gasoline completely is _______ km2 (an integer value). Ethanol energy equivalent is 67% of gasoline, gasoline density is 850 kg/m3 , yield of bioethanol produced from sugarcane per hectare of land is 3750 L, and 1 km2 = 100 hectares."
+61,12476874229,"Initially a bottle contained 400 g of ethanol. Half of ethanol was used by a student for preparing the stock solution in an environmental chemistry laboratory just before summer vacation of 90 days. After completing the procedure, the student left the bottle uncorked. If the unsealed bottle losses ethanol at a rate of 0.5 g/day, the ethanol that will be left in the bottle at the end of the summer vacation is _______ g (an integer value)."
+62,12476874230,Consider sorting the following array of integers in ascending order using an in-place Quicksort algorithm that uses the last element as the pivot. 60 70 80 90 100 The minimum number of swaps performed during this Quicksort is ______.
+63,12476874231,"The fundamental operations in a double-ended queue D are: 
+insertFirst(e) – Insert a new element e at the beginning of D. 
+insertLast(e) – Insert a new element e at the end of D. 
+removeFirst() – Remove and return the first element of D. 
+removeLast() – Remove and return the last element of D. 
+In an empty double-ended queue, the following operations are performed: 
+insertFirst(10) 
+insertLast(32) 
+a ←removeFirst() 
+insertLast(28) 
+insertLast(17) 
+a ←removeFirst() 
+a ← removeLast() The value of a is ______."
+64,12476874232,Let 𝑓:ℝ → ℝ be the function 𝑓(𝑥) = 1 /(1+𝑒−𝑥 ). The value of the derivative of 𝑓 at 𝑥 where 𝑓(𝑥) = 0.4 is ______ (rounded off to two decimal places).
+65,12476874233,The sample average of 50 data points is 40. The updated sample average after including a new data point taking the value of 142 is ______.
+66,12476874234,Consider the 3 × 3 matrix 𝑴 = [ 1 2 3 3 1 3 4 3 6 ]. The determinant of (𝑴^𝟐 + 12𝑴) is ______.
+67,12476874235,"Consider the following Python code: 
+def count(child_dict, i): 
+if i not in child_dict.keys(): 
+return 1 
+ans = 1 
+for j in child_dict[i]: 
+ans += count(child_dict, j) 
+return ans 
+
+child_dict = dict() 
+child_dict[0] = [1,2] 
+child_dict[1] = [3,4,5] 
+child_dict[2] = [6,7,8] 
+print(count(child_dict,0)) 
+Which ONE of the following is the output of this code?"
+68,12476874236,"Let 𝑋 be a random variable uniformly distributed in the interval [1, 3] and 𝑌 be a random variable uniformly distributed in the interval [2, 4]. If X and Y are independent of each other, the probability P(𝑋 ≥ 𝑌) is ______ (rounded off to three decimal places)."
+69,12476874237,"Let 𝑋 be a random variable exponentially distributed with parameter 𝜆 > 0. 
+The probability density function of X is given by: 𝑓𝑋 (𝑥) = { 𝜆 𝑒 −𝜆𝑥 , 𝑥 ≥ 0 otherwise 0, If 5𝐸(𝑋) = 𝑉𝑎𝑟(𝑋), where 𝐸(𝑋) and 𝑉𝑎𝑟(𝑋) indicate the expectation and variance of 𝑋, respectively, the value of 𝜆 is ______ (rounded off to one decimal place)."
+70,12476874238,"Consider two events T and S. Let 𝑇̅denote the complement of the event T. The probability associated with different events are given as follows: 𝑃(𝑇̅) = 0.6, 𝑃(𝑆|𝑇) = 0.3, 𝑃(𝑆|𝑇̅) = 0.6 Then, 𝑃(𝑇|𝑆) is ______ (rounded off to two decimal places)."
+71,12476874239,"Consider a joint probability density function of two random variables X and Y 𝑓𝑋,𝑌 (𝑥, 𝑦) = { 2𝑥𝑦, 0 < 𝑥 < 2, 0 < 𝑦 < 𝑥 0, otherwise Then, 𝐸[𝑌|𝑋 = 1.5] is ______"
+72,12476874240,Evaluate the following limit: lim 𝑥→0 ln((𝑥 2+1) cos 𝑥) /𝑥^2 = ______.
+73,12476874241,Two fair coins are tossed independently. X is a random variable that takes a value of 1 if both tosses are heads and 0 otherwise. Y is a random variable that takes a value of 1 if at least one of the tosses is heads and 0 otherwise. The value of the covariance of X and Y is ______ (rounded off to three decimal places)
+74,12476874242,"In an engineering college of 10,000 students, 1,500 like neither their core branches nor other branches. The number of students who like their core branches is 1/4th of the number of students who like other branches. The number of students who like both their core and other branches is 500. The number of students who like their core branches is"
+75,12476874243,"In the sequence 6, 9, 14, x, 30, 41, a possible value of 𝑥 is"
+76,12476874244,"A cube is to be cut into 8 pieces of equal size and shape. Here, each cut should be straight and it should not stop till it reaches the other end of the cube. The minimum number of such cuts required is"
+77,12476874245,"Let 𝑋 be a random variable having Poisson distribution with mean 𝜆 > 0 such that 𝑃(𝑋 = 4) = 2 𝑃(𝑋 = 5). If 𝑝𝑘 = 𝑃(𝑋 = 𝑘), 𝑘 = 0,1,2, …, and 𝑝𝛼 = max 𝑘 𝑝𝑘, then 𝛼 equals __________ (in integer"
+78,12476874246,"Let 𝑋1, 𝑋2, 𝑋3 be independent and identically distributed random variables with 
+common probability density function 𝑓(𝑥) = {2𝑥 if 0 < 𝑥 < 1, 0 otherwise.
+Then 𝑃(min{𝑋1, 𝑋2, 𝑋3} ≥ 𝐸(𝑋1)) equals __________ (rounded off to two decimal places).
+"
+79,12476874247,"Let (𝑋, 𝑌) have a bivariate normal distribution with 𝐸(𝑋) = 𝐸(𝑌) = 0. Denote the conditional variance of 𝑋 given 𝑌 = 1 by 𝑉𝑎𝑟(𝑋|𝑌 = 1) and the conditional variance of 𝑌 given 𝑋 = 2 by 𝑉𝑎𝑟(𝑌|𝑋 = 2). If 𝐸(𝑌|𝑋=2) /𝐸(𝑋|𝑌=1) = 8 then 𝑉𝑎𝑟(𝑌|𝑋=2) /𝑉𝑎𝑟(𝑋|𝑌=1) equals __________ (in integer)."
+80,12476874248,"Consider the linear regression model 𝑦𝑖 = 𝛽1𝑥𝑖 + 𝜖𝑖 , 𝑖 = 1, 2, … , 𝑛, where 𝛽1 is an unknown parameter, 𝜖𝑖 ’s are uncorrelated random errors with mean 0 and finite variance 𝜎 2 > 0. The five data points (𝑥1, 𝑦1 ) = (2, 5), (𝑥2, 𝑦2 ) = (1, 6), (𝑥3, 𝑦3 ) = (3, 4), (𝑥4, 𝑦4 ) = (2, 3) and (𝑥5, 𝑦5 ) = (4, 6) yield the least squares estimate of 𝛽1 to be equal to __________ (rounded off to two decimal places)."
+81,12476874249,"Let 𝑋 be a random variable with probability density function 
+𝑓(𝑥) = { 
+3 ((𝑥 + 1)^ 2)/8 if − 1 < 𝑥 < 1 ,
+0 otherwise. 
+If 𝑌 = 1 − 𝑋 2 , then 𝑃 (𝑌 ≤ 3 4 ) equals"
+82,12476874250,"Let 𝑋 be a random variable having discrete uniform distribution on {1, 3, 5, 7, … , 99}. Then 𝐸(𝑋 | 𝑋 is not a multiple of 15) equals"
+83,12476874251,"Let {𝑁(𝑡)}𝑡≥0 be a Poisson process with rate 𝜆, where 𝜆 > 0 is an unknown parameter. Staring from the origin, an intercity road has 𝑁(𝑡) number of potholes up to a distance of 𝑡 kilometers. Starting from the origin, potholes are found at the following distances (in kilometers) 0.9, 1.3, 1.8, 2.7, 3.4, 4.1, 4.7, 5.5, 6.2, 6.8, 7.4, 8.1, 8.9, 9.2, 9.7. Based on the above data, the method of moment estimate of 𝜆 equals __________ (rounded off to two decimal places)."
+84,12476874252,"Let 𝑋1 , 𝑋2 , 𝑋3 , 𝑋4 be a random sample of size 4 from a population having uniform distribution over the interval (0, 𝜃), where 𝜃 > 0 is an unknown parameter. Let 𝑋(4) = max{𝑋1 , 𝑋2 , 𝑋3 , 𝑋4 }. To test 𝐻0 : 𝜃 = 1 against 𝐻1 : 𝜃 = 0.1, consider the critical region that rejects 𝐻0 if 𝑋(4) < 0.3. Let 𝑝 be the probability of the Type-I error. Then 100 𝑝 equals ___________ (rounded off to two decimal places)."
+85,12476874253,"Let a random sample of size 4 from a normal population with unknown mean 𝜇 and variance 1 yield the sample mean of 0.16. Let Φ(⋅) be the cumulative distribution function of the standard normal random variable. It is given that Φ(2.28) = 0.989, Φ(1.96) = 0.975, Φ(1.64) = 0.95. If the likelihood ratio test of size 0.05 is used to test 𝐻0 : 𝜇 = 0 against 𝐻1: 𝜇 ≠ 0, then the power of the test at the sample mean equals __________ (rounded off to three decimal places)."
+86,12476874254,"A rectangular paper sheet of dimensions 54 cm × 4 cm is taken. The two longer 
+edges of the sheet are joined together to create a cylindrical tube. A cube whose 
+surface area is equal to the area of the sheet is also taken. 
+Then, the ratio of the volume of the cylindrical tube to the volume of the cube is"
+87,12476874255,"A rectangular paper of 20 cm × 8 cm is folded 3 times. Each fold is made along the line of symmetry, which is perpendicular to its long edge. The perimeter of the final folded sheet (in cm) is"
+88,12476874256,"A user starts browsing a webpage hosted at a remote server. 
+The browser opens a single TCP connection to fetch the entire webpage from the server. 
+The webpage consists of a top-level index page with multiple embedded image objects. 
+Assume that all caches (e.g., DNS cache, browser cache) are all initially empty. 
+The following packets leave the user’s computer in some order. 
+(i) HTTP GET request for the index page 
+(ii) DNS request to resolve the web server’s name to its IP address 
+(iii) HTTP GET request for an image object 
+(iv) TCP SYN to open a connection to the web server 
+Which one of the following is the CORRECT chronological order (earliest in time to latest) of the packets leaving the computer ? 
+(1) (iv), (ii), (iii), (i) 
+(2) (ii), (iv), (iii), (i) 
+(3) (ii), (iv), (i), (iii) 
+(4) (iv), (ii), (i), (iii)"
+89,12476874257,"In a B+ tree, the requirement of at least half-full (50%) node occupancy is relaxed for which one of the following cases? 
+(1) Only the root node 
+(2) All leaf nodes 
+(3) All internal nodes 
+(4) Only the leftmost leaf node"
+90,12476874258,Let 𝐴 and 𝐵 be non-empty finite sets such that there exist one-to-one and onto functions (i) from 𝐴 to 𝐵 and (ii) from 𝐴 × 𝐴 to 𝐴 ∪ 𝐵. The number of possible values of |𝐴| is __________
+91,12476874259,"Consider the operator precedence and associativity rules for the integer arithmetic operators given in the table below. 
+Operator Precedence Associativity 
++ Highest Left 
+− High Right 
+∗ Medium Right 
+/ Low Right 
+The value of the expression 3 + 1 + 5 ∗ 2 / 7 + 2 − 4 − 7 − 6 / 2 as per the above rules is _________"
+92,12476874260,"The number of spanning trees in a complete graph of 4 vertices labelled A, B, C, and D is ________"
+93,12476874261,"Consider a network path P—Q—R between nodes P and R via router Q. Node P sends a file of size 10^6 bytes to R via this path by splitting the file into chunks of 10^3 bytes each. Node P sends these chunks one after the other without any wait time between the successive chunk transmissions. Assume that the size of extra headers added to these chunks is negligible, and that the chunk size is less than the MTU. Each of the links P—Q and Q—R has a bandwidth of 10^6 bits/sec, and negligible propagation latency. Router Q immediately transmits every packet it receives from P to R, with negligible processing and queueing delays. Router Q can simultaneously receive on link P—Q and transmit on link Q—R. Assume P starts transmitting the chunks at time 𝑡 = 0. Which one of the following options gives the time (in seconds, rounded off to 3 decimal places) at which R receives all the chunks of the file?"
+94,12476874262,"Consider the following recurrence relation: 𝑇(𝑛) = { √𝑛𝑇(√𝑛) + 𝑛 for 𝑛 ≥ 1, 1 for 𝑛 = 1. 
+Which one of the following options is CORRECT? 
+(1) 𝑇(𝑛) = Θ(𝑛 log log 𝑛) 
+(2) 𝑇(𝑛) = Θ(𝑛 log 𝑛) 
+(3) 𝑇(𝑛) = Θ(𝑛^2 log 𝑛) 
+(4) 𝑇(𝑛) = Θ(𝑛^2 log log 𝑛)"
+95,12476874263,Consider a binary min-heap containing 105 distinct elements. Let 𝑘 be the index (in the underlying array) of the maximum element stored in the heap. The number of possible values of 𝑘 is
+96,12476874264,The baseline execution time of a program on a 2 GHz single core machine is 100 nanoseconds (ns). The code corresponding to 90% of the execution time can be fully parallelized. The overhead for using an additional core is 10 ns when running on a multicore system. Assume that all cores in the multicore system run their share of the parallelized code for an equal amount of time. The number of cores that minimize the execution time of the program is ________
+97,12476874265,"A given program has 25% load/store instructions. Suppose the ideal CPI (cycles per instruction) without any memory stalls is 2. The program exhibits 2% miss rate on instruction cache and 8% miss rate on data cache. The miss penalty is 100 cycles. The speedup (rounded off to two decimal places) achieved with a perfect cache (i.e., with NO data or instruction cache misses) is ________"
+98,12476874266,"Consider the entries shown below in the forwarding table of an IP router. Each entry consists of an IP prefix and the corresponding next hop router for packets whose destination IP address matches the prefix. The notation “/N” in a prefix indicates a subnet mask with the most significant N bits set to 1. 
+Prefix Next hop router 
+10.1.1.0/24 R1 
+10.1.1.128/25 R2 
+10.1.1.64/26 R3 
+10.1.1.192/26 R4 
+This router forwards 20 packets each to 5 hosts. The IP addresses of the hosts are 10.1.1.16, 10.1.1.72, 10.1.1.132, 10.1.1.191, and 10.1.1.205 . The number of packets forwarded via the next hop router R2 is _______"
+99,12476874267,"Let 𝐺 = (𝑉, Σ, 𝑆, 𝑃) be a context-free grammar in Chomsky Normal Form with Σ = {𝑎, 𝑏, 𝑐} and 𝑉 containing 10 variable symbols including the start symbol 𝑆. The string 𝑤 = 𝑎 ^30𝑏 ^30𝑐 ^30 is derivable from 𝑆. The number of steps (application of rules) in the derivation 𝑆 →∗ 𝑤 is _________"
+100,12476874268,The number of edges present in the forest generated by the DFS traversal of an undirected graph 𝐺 with 100 vertices is 40. The number of connected components in 𝐺 is _________
+101,12476874269,"In a forest, there are tigers, hare, and deer. On a given day, the probability of a tiger hunting a hare is 0.35, a deer is 0.25, and either a hare or a deer is 0.55. The probability of a tiger hunting both a hare and a deer on a given day is __________."
+102,12476874270,"Consider a discrete random variable X that takes values from the set S = {0, 1, 2, 3}, being the number of individuals of a species within a habitat. Consider the probability distribution of X with Pr(X = 0) = 0.15, Pr(X = 1) = 0.25 and Pr(X = 3) = 0.5, where Pr denotes probability. The value of Pr(X = 2) is"
+103,12476874271,"There are nine species of Impatiens (balsams) found in laterite plateaus of the northern Western Ghats, each with a distinct colour. If a plateau has exactly 6 species, then the number of possible colour combinations in the plateau is"
+104,12476874272,"Fermentation medium is cooled from 121 C to 30 C in a double pipe heat exchanger. If cold water is flowing in the counter-current direction and is heated from 10 C to 70 C, then the Log-Mean Temperature Difference (LMTD) is ________ C"
+105,12476874273,"Aspergillus niger is grown in a 10,000 L stirred batch bioreactor under aerated conditions to produce citric acid. At steady state oxygen transfer conditions, the specific oxygen uptake rate of the organism and the volumetric mass transfer coefficient are 1×10-4 𝑔 𝑜𝑥𝑦𝑔𝑒𝑛 𝑐𝑜𝑛𝑠𝑢𝑚𝑒𝑑 𝑔 𝑏𝑖𝑜𝑚𝑎𝑠𝑠 s -1 and 60 min-1 , respectively. If the oxygen solubility is 8×10-3 kg m-3 under the operating conditions, based only on oxygen dynamics, the maximum possible cell concentration is ________kg m-3"
+106,12476874274,"The free energy change of ATP hydrolysis at 25 C is -32.2 kJ mol-1 . The free energy change for hydrolysis of α-glycerophosphate to glycerol is -8.2 kJ mol-1 at 25 C. Using the above information, the free energy change for the formation of α-glycerophosphate from glycerol and ATP is ________ kJ mol-1 (Answer in integer)."
+107,12476874275,"E. coli is inoculated in a shake flask containing nutrient rich medium. The initial number of viable cells in the medium is 102 . After few hours, the number of viable cells is 106 . Assuming cell divides by binary fission, the number of generations that have taken place is ________"
+108,12476874276,"A fermentor is filled with medium at a rate of 1 L min-1 . A leak develops at the bottom of the fermentor when the medium in the fermentor reaches 200 L. The rate of medium leakage is 2𝑡 L min-1 , where ‘𝑡’ is the time at which the leak begins. The volume of medium in the fermentor after 10 min of leakage is ________ L"
+109,12476874277,"A fed batch process is running at quasi-steady state with respect to substrate and biomass concentration. At 2 h, the culture volume is 500 L with a constant sterile inlet feed at 50 L h-1 of glucose. The culture kinetic parameters µ𝑚and 𝐾𝑆 are 0.2 h-1 and 0.1 g L-1 , respectively. The substrate concentration in the reactor will be ________ g L-1"
+110,12476874278,"Consider scale-up of fungal fermentation from a 20 L model-type to 20,000 L prototype stirred tank reactor. The model-type and prototype have the same aspect ratio during scale-up. The impeller speed in the model-type is 500 rpm and the scale-up criterion is constant shear. The impeller speed in the prototype reactor will be ________ rpm"
+111,12476874279,"How many 4-digit positive integers divisible by 3 can be formed using only the digits {1, 3, 4, 6, 7}, such that no digit appears more than once in a number?"
+112,12476874280,"The probability of a boy or a girl being born is 1/2. For a family having only three children, what is the probability of having two girls and one boy?"
+113,12476874281,"Person 1 and Person 2 invest in three mutual funds A, B, and C. The amounts they invest in each of these mutual funds are given in the table. 
+Mutual fund A Mutual fund B Mutual fund C 
+Person 1 ₹10,000 ₹20,000 ₹20,000 
+Person 2 ₹20,000 ₹15,000 ₹15,000 
+At the end of one year, the total amount that Person 1 gets is ₹500 more than Person 2. 
+The annual rate of return for the mutual funds B and C is 15% each. What is the annual rate of return for the mutual fund A?"
+114,12476874282,"Ten cards in a pack are numbered as 1, 2, 3, . . .10. The probability of drawing a card with an even number or a number which is a multiple of 5 from the pack is _______."
+115,12476874283,"As per the United Nations Environmental Program (UNEP) guidelines 2004, the maximum size of microplastics is _______ mm."
+116,12476874284,𝑓(𝑥) = 𝑥 ^3 − 4.5𝑥 ^2 − 12𝑥 has a local maximum at x = _______ (an integer value) in the range x = – 2 to + 2.
+117,12476874285,Consider the equation 𝑑𝑦/𝑑𝑥− 𝑥^2 + 𝑒^𝑥 = 0; with y =1 at x = 0. The value of y at x = 1 is _______ (rounded off to 2 decimal places).Take the value of e (base of natural logarithm) as 2.7.
+118,12476874286,"A Class-A pan was setup adjacent to a lake for measuring evaporation losses in the lake. The depth of water in the pan at the beginning of a certain week was 250 mm. In that week, there was a rainfall event with 10 mm depth. Water depth in the pan at the end of the week was 240 mm. The pan coefficient is 0.8. The estimated lake evaporation during the week was _______ mm (an integer value)."
+119,12476874287,"A municipal solid waste digester generates 1000 kg of methane gas. The volume of the tank needed to store this gas at 30 °C and 3 atmospheric pressure is _______ liters (an integer value). Use R=0.082 L-atm/mole-K, Atomic weights of C=12, and H=1"
+120,12476874288,Consider second order kinetics (𝑟𝑐 = −𝑘𝐶2 ) under steady state condition. The ratio of volume of a complete mixed reactor (CMR) to that of a plug flow reactor (PFR) to achieve 90% reduction in the concentration is _______. Inlet concentrations in both the reactors are same.
+121,12476874289,"Consider a memory management system that uses a page size of 2 KB. Assume that both the physical and virtual addresses start from 0. Assume that the pages 0, 1, 2, and 3 are stored in the page frames 1, 3, 2, and 0, respectively. The physical address (in decimal format) corresponding to the virtual address 2500 (in decimal format) is _________"
+122,12476874290,"A bag contains 10 red balls and 15 blue balls. Two balls are drawn randomly without replacement. Given that the first ball drawn is red, the probability (rounded off to 3 decimal places) that both balls drawn are red is _________"
+123,12476874291,"Consider sending an IP datagram of size 1420 bytes (including 20 bytes of IP header) from a sender to a receiver over a path of two links with a router between them. The first link (sender to router) has an MTU (Maximum Transmission Unit) size of 542 bytes, while the second link (router to receiver) has an MTU size of 360 bytes. The number of fragments that would be delivered at the receiver is _______"
+131,12476874299,"Consider scale-up of fungal fermentation from a 20 L model-type to 20,000 L prototype stirred tank reactor. The model-type and prototype have the same aspect ratio during scale-up. The impeller speed in the model-type is 500 rpm and the scale-up criterion is constant shear. The impeller speed in the prototype reactor will be ________ rpm"
+133,12476874301,"A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?
+1. A
+2. X
+3. S
+4. Z"
+134,12476874302,"A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting ?
+1. Between B and D
+2. Between B and C
+3. Between E and D
+4. Between C and E"
+135,12476874303,"If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?
+1. Q - N + M x P
+2. P + S x N - Q
+3. P - M + N x Q
+4. Q - S % P"
+136,12476874304,"If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?
+1. M - N x C + F
+2. F - C + N x M
+3. N + M - F x C
+4. M x N - C + F"
+137,12476874305,"
+If A + B means A is the father of B; A - B means A is the brother B; A % B means A is the wife of B and A x B means A is the mother of B, which of the following shows that M is the maternal grandmother of T?
+1. M x N % S + T
+2. M x N - S % T
+3. M x S - N % T
+4. M x N x S % T"
+138,12476874306,"If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?
+1. P x Q % R + S - T
+2. P x Q % R - T + S
+3. P x Q % R + T - S
+4. P x Q % R + S + T"
+139,12476874307,"A3P means A is the mother of P
+A4P means A is the brother of P
+A9P means A is the husband of P
+A5P means A is the daughter of P
+Which of the following means that K is the mother-in-law of M?
+1. M9N3K4J
+2. M9N5K3J
+3. K5J9M3N
+4. K3J9N4M"
+140,12476874308,"120, 99, 80, 63, 48, ?"
+141,12476874309,"
+589654237, 89654237, 8965423, 965423, ?"
+142,12476874310,"In the series 2, 6, 18, 54, ...... what will be the 8th term ?"
+143,12476874311,"125,80,45,20,?"
+144,12476874312,"
+1, 1, 4, 8, 9, 27, 16, ?"
+145,12476874313,"1, 2, 3, 6, 9, 18, ?, 54"
+146,12476874314,"6, 13, 25, 51, 101, ?"
+147,12476874315,"5, 6, 9, 15, ?, 40"
+148,12476874316,"
+1, 3, 4, 8, 15, 27, ?"
+149,12476874317,"Which term of the series 5, 10, 20, 40, ..... is 1280?"
+150,12476874318,"9, 27, 31, 155, 161, 1127, ?"
+152,12476874320,"There are 8 houses in a line and in each house only one boy lives with the conditions as given below:
+
+Jack is not the neighbour Siman.
+Harry is just next to the left of Larry.
+There is at least one to the left of Larry.
+Paul lives in one of the two houses in the middle.
+Mike lives in between Paul and Larry.
+If at least one lives to the right of Robert and Harry is not between Taud and Larry, then which one of the following statement is not correct ?
+
+1. Robert is not at the left end.
+2. Robert is in between Simon and Taud.
+3. Taud is in between Paul and Jack.
+4. There are three persons to the right of Paul."
+153,12476874321,"A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting ?
+1. Between B and D
+2. Between B and C
+3. Between E and D
+4. Between C and E"
+154,12476874322,"Each of these questions are based on the information given below:
+A ,B, C, D and E are five men sitting in a line facing to south - while M, N, O, P and Q are five ladies sitting in a second line parallel to the first line and are facing to North.
+B who is just next to the left of D, is opposite to Q.
+C and N are diagonally opposite to each other.
+E is opposite to O who is just next right of M.
+P who is just to the left of Q, is opposite to D.
+M is at one end of the line.
+
+If B shifts to the place of E, E shifts to the place of Q, and Q shifts to the place of B, then who will be the second to the left of the person opposite to O ?
+1. Q
+2. P
+3. E
+4. D
+"
+155,12476874323,"Each of these questions are based on the information given below:
+A ,B, C, D and E are five men sitting in a line facing to south - while M, N, O, P and Q are five ladies sitting in a second line parallel to the first line and are facing to North.
+B who is just next to the left of D, is opposite to Q.
+C and N are diagonally opposite to each other.
+E is opposite to O who is just next right of M.
+P who is just to the left of Q, is opposite to D.
+M is at one end of the line.
+
+
+If O and P, A and E and B and Q interchange their positions, then who will be the second person to the right of the person who is opposite to the person second of the right of P ?
+1. D
+2. A
+3. E
+4. O
+"
+156,12476874324,"Each of these questions are based on the information given below:
+A ,B, C, D and E are five men sitting in a line facing to south - while M, N, O, P and Q are five ladies sitting in a second line parallel to the first line and are facing to North.
+B who is just next to the left of D, is opposite to Q.
+C and N are diagonally opposite to each other.
+E is opposite to O who is just next right of M.
+P who is just to the left of Q, is opposite to D.
+M is at one end of the line.
+In the original arrangement who is sitting just opposite to N ?
+1. B
+2. C
+3. A
+4. D"
+157,12476874325,"A, B, C, D, E, F and G are sitting in a row facing North :
+F is to the immediate right of E.
+E is 4th to the right of G.
+C is the neighbour of B and D.
+Person who is third to the left of D is at one of ends.
+Who are to the left of C ?
+1. Only B
+2. G, B and D
+3. G and B
+4. D, E, F and A"
+158,12476874326,"Each of these questions are based on the information given below :
+8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.
+There are 3 ladies who are not seated next to each other.
+J is between L and F.
+G is between I and F.
+H, a lady member is second to the left of J.
+F, a male member is seated opposite to E, a lady member.
+There is a lady member between F and I.
+How many persons are seated between K and F ?
+"
+159,12476874327,"Each of these questions are based on the information given below :
+8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.
+There are 3 ladies who are not seated next to each other.
+J is between L and F.
+G is between I and F.
+H, a lady member is second to the left of J.
+F, a male member is seated opposite to E, a lady member.
+There is a lady member between F and I.
+Who among the following are three lady members ?
+1. E, H and J
+2. E, F and G
+3. E, H and G
+4. C, H and J"
+160,12476874328,"Each of these questions are based on the information given below :
+8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.
+There are 3 ladies who are not seated next to each other.
+J is between L and F.
+G is between I and F.
+H, a lady member is second to the left of J.
+F, a male member is seated opposite to E, a lady member.
+There is a lady member between F and I.
+What is true about J and K ?
+1. J is male, K is female
+2. J is female, K is male
+3. Both are female
+4. Both are male"
+161,12476874329,"Each of these questions are based on the information given below :
+8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.
+There are 3 ladies who are not seated next to each other.
+J is between L and F.
+G is between I and F.
+H, a lady member is second to the left of J.
+F, a male member is seated opposite to E, a lady member.
+There is a lady member between F and I.
+Who among the following is seated between E and H ?
+1. F
+2. I
+3. K
+4. Cannot be determined
+"
+162,12476874330,"In a class there are seven students (including boys and girls) A, B, C, D, E, F and G. They sit on three benches I, II and III. Such that at least two students on each bench and at least one girl on each bench. C who is a girl student, does not sit with A, E and D. F the boy student sits with only B. A sits on the bench I with his best friends. G sits on the bench III. E is the brother of C.
+How many girls are there out of these 7 students ?
+1. 3
+2. 3 or 4
+3. 4
+4. Data inadequate"
+163,12476874331,"An ideal gas is in thermodynamic equilibrium. The number of degrees of freedom of a molecule of the gas is n. The internal energy of one mole of the gas is Un and the speed of sound in the gas is v n . At a fixed temperature and pressure, which of the following is the correct option? 
+(1) v 3 < v 6 and U3 > U6 
+(2) v 5 > v 3 and U3 > U5 
+(3) v 5 > v 7 and U5 < U7 
+(4) v 6 < v 7 and U6 < U7"
+164,12476874332,"In a radioactive decay process, the activity is defined as A = − dN / dt , where N(t) is the number of radioactive nuclei at time ( t ). 
+Two radioactive sources, S1 and S2 have same activity at time t = 0. 
+At a later time, the activities of S1 and S2 are A1 and A2 , respectively. 
+When S1 and S2 have just completed their 3rd and 7th half-lives, respectively, the ratio A1/A2 is __________."
+165,12476874333,"Consider the following statements related to colloids.
+(I) Lyophobic colloids are not formed by simple mixing of dispersed phase and dispersion medium.
+(II) For emulsions, both the dispersed phase and the dispersion medium are liquid.
+(III) Micelles are produced by dissolving a surfactant in any solvent at any temperature.
+(IV) Tyndall effect can be observed from a colloidal solution with dispersed phase having the same refractive 
+index as that of the dispersion medium.
+The option with the correct set of statements is
+(1) (I) and (II) 
+(2) (II) and (III)
+(3) (III) and (IV) 
+(4) (II) and (IV)"
+166,12476874334,"The complex(es), which can exhibit the type of isomerism shown by [Pt(NH3)2Br2], is(are) [en = H2NCH2CH2NH2]
+(1) [Pt(en)(SCN)2] 
+(2) [Zn(NH3)2Cl2]
+(3) [Pt(NH3)2Cl4] 
+(4) [Cr(en)2(H2O)(SO4)]+"
+167,12476874335,"H2S (5 moles) reacts completely with acidified aqueous potassium permanganate solution. In this reaction, the 
+number of moles of water produced is x, and the number of moles of electrons involved is y. The value of 
+(x + y) is ____.
+"
+168,12476874336,"Among [I3]+, [SiO4]4–, SO2Cl2, XeF2, SF4, CIF3, Ni(CO)4, XeO2F2, [PtCl4]2–, XeF4, and SOCl2, the total number of 
+species having sp3  hybridised central atom is _____."
+169,12476874337,"Consider the following molecules : Br3O8, F2O, H2S4O6, H2S5O6, and C3O2. Count the number of atoms existing 
+in their zero oxidation state in each molecule. Their sum is _______."
+170,12476874338,"For He+, a transition takes place from the orbit of radius 105.8 pm to the orbit of radius 26.45 pm. The wavelength 
+(in nm) of the emitted photon during the transition is ______,
+[Use:
+Bohr radius, a = 52.9 pm
+Rydberg constant, RH = 2.2 × 10–18 J
+Planck's constant, h = 6.6 × 10–34 Js 
+Speed of light, c = 3 × 108 ms–1
+]
+"
+171,12476874339,"50 mL of 0.2 molal urea solution (density = 1.012 g mL–1 at 300 K) is mixed with 250 mL of a solution containing 
+0.06 g of urea. Both the solutions were prepared in the same solvent. The osmotic pressure (in torr) of the 
+resulting at 300 K is ____. 
+[Use : Molar mass of urea = 60 g mol–1; gas constant, R = 62 L torr K–1 mol–1; Assume, delta mix H = 0, delta mix V = 0]"
+172,12476874340,"The reaction of 4-methyloct-1-ene (P, 2.52 g) with HBr in the presence of (C6H5CO)2O2 gives two isomeric 
+bromides in a 9 : 1 ratio, with a combined yield of 50%. Of these, the entire amount of the primary alkyl bromide 
+was reacted with an appropriate amount of diethylamine followed by treatment with aq. K2CO3 to give a non_x0002_ionic product S in 100% yield.
+The mass (in mg) of S obtained is _______.
+[Use molar mass (in g mol–1): H = 1, C = 12, N = 14, Br = 80]"
+173,12476874341,"Consider an experiment of tossing a coin repeatedly until the outcomes of two consecutive tosses are same. If 
+the probability of a random toss resulting in head is 1/3, then the probability that the experiment stops with head 
+is"
+174,12476874342,"Let X be the set of all five digit numbers formed using 1,2,2,2,4,4,0. For example, 22240 is in X while 02244 and 
+44422 are not in X. Suppose that each element of X has an equal chance of being chosen. Let p be the 
+conditional probability that an element chosen at random is a multiple of 20 given that it is a multiple of 5. Then 
+the value of 38p is equal to"
+175,12476874343,"Let A1, A2, A3,…, A8 be the vertices of a regular octagon that lie on a circle of radius 2. Let P be a point on the 
+circle and let PAi denote the distance between the points P and Ai for i = 1, 2, …, 8. If P varies over the circle, 
+then the maximum value of the product PA1 x PA2 x … x PA8, is"
+176,12476874344,"Consider an obtuse angled triangle ABC in which the difference between the largest and the smallest
+angle is pi/2 and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie
+on a circle of radius 1.
+ Let a be the area of the triangle ABC. Then the value of (64a)^2 is"
+177,12476874345,"Consider an obtuse angled triangle ABC in which the difference between the largest and the smallest
+angle is pi/2 and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie
+on a circle of radius 1.Then the inradius of the triangle ABC is"
+178,12476874346,"Let pi be the probability that a randomly chosen point has i many friends, i = 0,1, 2, 3, 4. Let X be a random 
+variable such that for i = 0,1, 2, 3, 4, the probability P (X = i) = pi. Then the value of 7E(X) is"
+179,12476874347,"A Hydrogen-like atom has atomic number Z. Photons emitted in the electronic transitions from level n = 4 to level n = 3 in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is 1.95 eV. If the photoelectric threshold wavelength for the target metal is 310 nm, the value of Z is __________. [Given hc = 1240 eV-nm and Rhc = 13.6 eV, where R is the Rydberg constant, h is the Planck’s constant and c is the speed of light in vacuum]"
+180,12476874348,"In an experiment for determination of the focal length of a thin convex lens, the distance of the object from the 
+lens is 10 ± 0.1 cm and the distance of its real image from the lens is 20 ± 0.2 cm. The error in the determination 
+of focal length of the lens is n%. The value of n is _______"
+181,12476874349,"A closed container contains a homogeneous mixture of two moles of an ideal monatomic gas (γ = 5/3) and one mole of an ideal diatomic gas (γ = 7/5). Here, γ is the ratio of the specific heats at constant pressure and constant volume of an ideal gas. The gas mixture does a work of 66 Joule when heated at constant pressure. The change in its internal energy is ________ Joule"
+182,12476874350,"A person of height 1.6 m is walking away from a lamp post of height 4 m along a straight path on the flat ground. 
+The lamp post and the person are always perpendicular to the ground. If the speed of the person is 60 cm s−1, 
+the speed of the tip of the person’s shadow on the ground with respect to the person is _______ cm s−1."
+183,12476874351,"Let P be a point on the parabola y^2 = 4ax, where a > 0. The normal to the parabola at P meets the x-axis at a 
+point Q. The area of the triangle PFQ, where F is the focus of the parabola, is 120. If the slope m of the normal 
+and a are both positive integers, then the pair (a, m) is
+(1) (2, 3) 
+(2) (1, 3)
+(3) (2, 4) 
+(4) (3, 4)"
+191,12476874359,The number of non-isomorphic finite groups with exactly 3 conjugacy classes is equal to (answer in integer)
+192,12476874360,"Let f(x,y) = (x^2 − y^2,2xy), where x > 0,y > 0. Let g be the inverse of f in a neighborhood of f(2,1). Then the determinant of the Jacobian matrix of g at f(2,1) is equal to (round off to TWO decimal places)"
+193,12476874361,Let F3 be the field with exactly 3 elements. The number of elements in GL2(F3) is equal to (answer in integer)
+194,12476874362,"Given a real subspace W of R4, let W⊥ denote its orthogonal complement with respect to the standard inner product on R4. Let W1 = Span{(1,0,0,−1)} and W2 = Span{(2,1,0,−1)} be real subspaces of R4. The dimension of W⊥ 1 ∩ W⊥ 2 over R is equal to (answer in integer)"
+195,12476874363,The number of group homomorphisms from Z/4Z to S4 is equal to (answer in integer)
+196,12476874364,"Let a ∈ R and h be a positive real number. For any twice-differentiable function f : R → R, let Pf(x) be the interpolating polynomial of degree at most two that interpolates f at the points a − h,a,a + h. Define d to be the largest integer such that any polynomial g of degree d satisfies g′′(a) = P′′ g(a). The value of d is equal to (answer in integer)"
+197,12476874365,"Let Pf(x) be the interpolating polynomial of degree at most two that interpolates the function f(x) = x^2 * |x| at the points x = −1,0,1. Then sup x∈[−1,1]  |f(x) − Pf(x)| = (round off to TWO decimal places)"
+198,12476874366,"The maximum of the function f(x,y,z) = xyz subject to the constraints xy +yz +zx =12, x>0,y >0,z >0, is equal to (round off to TWO decimal places)"
+199,12476874367,"If the outward flux of F(x,y,z) = x^3,y^3,z^3 through the unit sphere x^2+y^2+z^2 = 1 is απ, then α is equal to (round off to TWO decimal places)"
+200,12476874368,"A student was supposed to multiply a positive real number 𝑝 with another positive real number 𝑞. Instead, the student divided 𝑝 by 𝑞. If the percentage error in the student’s answer is 80%, the value of 𝑞 is "
+201,12476874369,"If the sum of the first 20 consecutive positive odd numbers is divided by 20^2, the result is "
+202,12476874370,"The ratio of the number of girls to boys in class VIII is the same as the ratio of the number of boys to girls in class IX. The total number of students (boys and girls) in classes VIII and IX is 450 and 360, respectively. If the number of girls in classes VIII and IX is the same, then the number of girls in each class is "
+203,12476874371,Visualize a cube that is held with one of the four body diagonals aligned to the vertical axis. Rotate the cube about this axis such that its view remains unchanged. The magnitude of the minimum angle of rotation is (in degrees)
+204,12476874372,"Consider the following Linear Programming Problem P minimize 5x + 2y subject to 2x + y ≤ 2, x + y ≥ 1, x, y ≥ 0. The optimal value of the problem P is equal to"
+205,12476874373,Let H={z ∈ C : Im(z) > 0} and D = { z ∈ C : |z|<1}. Then sup { |f′(0)| : f is an analytic function from D to H and f(0)= i / 2 } is equal to
+206,12476874374,"Let ⟨·,·⟩ denote the standard inner product on R^7. Let Σ = {v1,...,v5} ⊆ R^7 be a set of unit vectors such that ⟨vi,vj⟩ is a non-positive integer for all 1 ≤ i= j ≤ 5. Define N(Σ) to be the number of pairs (r,s), 1 ≤ r,s ≤ 5, such that⟨vr,vs⟩ ≠ 0. The maximum possible value of N(Σ) is equal to"
+207,12476874375,"The maximum value of f(x,y,z) = 10x + 6y − 8z subject to the constraints 5x − 2y + 6z ≤ 20, 10x + 4y − 6z ≤ 30, x, y, z ≥ 0, is equal to. (round off to TWO decimal places)"
+208,12476874376,Let K ⊆ C be the field extension of Q obtained by adjoining all the roots of the polynomial equation (X^2 −2)(X^2 −3) = 0. The number of distinct fields F such that Q ⊆ F ⊆ K is equal to. (answer in integer)
+209,12476874377,"Let H be the subset of S3 consisting of all σ ∈ S3 such that Trace(A1A2A3) = Trace(Aσ(1)Aσ(2)Aσ(3)), for all A1,A2,A3 ∈ M2(C). The number of elements in H is equal to (answer in integer)"
+210,12476874378,"Let r : [0,1] → R^2 be a continuously differentiable path from (0,2) to (3,0) and let F: R^2 →R^2 be defined by F(x,y) = (1−2y,1−2x). The line integral of F along r  ∫ F·dr is equal to (round off to TWO decimal places)"
+211,12476874379,"The boundary value problem x^2 * y′′ − 2xy′ + 2y = 0, 1 ≤ x ≤ 2, y(1) − y′(1) = 1, y(2) − k * y′(2) = 4, has infinitely many distinct solutions when k is equal to (round off to TWO )"
+212,12476874380,"The global maximum of f(x,y) = (x^2 + y^2)e^(2−x−y) on {(x,y) ∈ R^2 : x ≥ 0,y ≥ 0} is equal to (round off to TWO decimal places)"
+213,12476874381,"The decimal number system uses the characters 0, 1, 2, …, 8, 9, and the octal number system uses the characters 0, 1, 2, …, 6, 7. For example, the decimal number 12 ( = 1 × 101 + 2 × 100 ) is expressed as 14 ( = 1 × 8 1 + 4 × 8 0 ) in the octal number system. The decimal number 108 in the octal number system is (A) 168 (B) 108 (C) 150 (D) 154"
+214,12476874382,"A shopkeeper buys shirts from a producer and sells them at 20% profit. A customer has to pay ₹3,186.00 including 18% taxes, per shirt. At what price did the shopkeeper buy each shirt from the producer? (A) ₹2,500.00 (B) ₹1,975.40 (C) ₹2,250.00 (D) ₹2,548.80"
+215,12476874383,"A surveyor has to measure the horizontal distance from her position to a distant reference point C. Using her position as the center, a 200 m horizontal line segment is drawn with the two endpoints A and B. Points A, B, and C are not collinear. Each of the angles ∠CAB and ∠CBA are measured as 87.8°. The distance (in m) of the reference point C from her position is nearest to"
+216,12476874384,"A three phase, 50 Hz, 6 pole induction motor runs at 960 rpm. The stator copper loss, core loss, and the rotational loss of the motor can be neglected. The percentage efficiency of the motor is"
+217,12476874385,Consider the complex function 𝑓(𝑧) = cos 𝑧 + 𝑒 𝑧 2 . The coefficient of 𝑧 5 in the Taylor series expansion of 𝑓(𝑧) about the origin is ______ (rounded off to 1 decimal place).
+218,12476874386,The sum of the eigenvalues of the matrix A= [ 1 2 3 4 ] 2 is ______ (rounded off to the nearest integer)
+219,12476874387,"Let X ( )  be the Fourier transform of the signal 𝑥(𝑡) = 𝑒 −𝑡 4 cos 𝑡, − ∞ < 𝑡 < ∞. The value of the derivative of X ( )  at  = 0 is _______ (rounded off to 1 decimal place)"
+220,12476874388,"The incremental cost curves of two generators (Gen A and Gen B) in a plant supplying a common load are shown in the figure. If the incremental cost of supplying the common load is Rs. 7400 per MWh, then the common load in MW is _______ (rounded off to the nearest integer)."
+221,12476874389,"A forced commutated thyristorized step-down chopper is shown in the figure. Neglect the ON-state drop across the power devices. Assume that the capacitor is initially charged to 50 V with the polarity shown in the figure. The load current (𝐼𝐿 ) can be assumed to be constant at 10 A. Initially, ThM is ON and ThA is OFF. The turn-off time available to ThM in microseconds, when ThA is triggered, is_________ (rounded off to the nearest integer)."
+222,12476874390,Two passive two-port networks P and Q are connected as shown in the figure. The impedance matrix of network P is 𝑍𝐏 = [ 40 Ω 60 Ω 80 Ω 100 Ω ]. The admittance matrix of network Q is 𝑌𝐐 = [ 5 S −2.5 S −2.5 S 1 S ]. Let the ABCD matrix of the two-port network R in the figure be [ 𝛼 𝛽 𝛾 𝛿 ]. The value of 𝛽 in Ω is _____________ (rounded off to 2 decimal places).
+225,12476874393,"In the (𝑥, 𝑦, 𝑧) coordinate system, three point-charges 𝑄, 𝑄, and 𝛼𝑄 are located in free space at (−1, 0, 0), (1, 0, 0), and (0, −1, 0), respectively. The value of 𝛼 for the electric field to be zero at (0, 0.5, 0) is ______________ (rounded off to 1 decimal place)."
+226,12476874394,"The given equation represents a magnetic field strength 𝐻̅(𝑟, 𝜃,𝜙) in the spherical coordinate system, in free space. Here, 𝑟̂and 𝜃̂ represent the unit vectors along 𝑟 and 𝜃, respectively. The value of 𝑃 in the equation should be ____________ (rounded off to the nearest integer)."
+227,12476874395,"If the energy of a continuous-time signal 𝑥(𝑡) is 𝐸 and the energy of the signal 2𝑥(2𝑡 − 1) is 𝑐𝐸, then 𝑐 is _____ (rounded off to 1 decimal place)."
+228,12476874396,"A 3-phase star connected slip ring induction motor has the following parameters referred to the stator: 𝑅𝑠 = 3 Ω, 𝑋𝑠 = 2 Ω, 𝑋𝑟 ′ = 2 Ω, 𝑅𝑟 ′ = 2.5 Ω The per phase stator to rotor effective turns ratio is 3:1. The rotor winding is also star connected. The magnetizing reactance and core loss of the motor can be neglected. To have maximum torque at starting, the value of the extra resistance in ohms (referred to the rotor side) to be connected in series with each phase of the rotor winding is _________ (rounded off to 2 decimal places)."
+229,12476874397,"A 5 kW, 220 V DC shunt motor has 0.5 Ω armature resistance including brushes. The motor draws a no-load current of 3 A. The field current is constant at 1 A. Assuming that the core and rotational losses are constant and independent of the load, the current (in amperes) drawn by the motor while delivering the rated load, for the best possible efficiency, is ________ (rounded off to 2 decimal places)."
+230,12476874398,A single-phase half-controlled bridge converter supplies an inductive load with ripple free load current. The triggering angle of the converter is 60°. The ratio of the rms value of the fundamental component of the input current to the rms value of the total input current of the bridge is _________ (rounded off to 3 decimal places).
+231,12476874399,"A single-phase full bridge voltage source inverter (VSI) feeds a purely inductive load. The inverter output voltage is a square wave in 180° conduction mode. The fundamental frequency of the output voltage is 50 Hz. If the DC input voltage of the inverter is 100 V and the value of the load inductance is 20 mH, the peak-topeak load current in amperes is _________ (rounded off to the nearest integer)."
+232,12476874400,"A single-phase full-controlled thyristor converter bridge is used for regenerative braking of a separately excited DC motor with the following specifications: Rated armature voltage 210 V Rated armature current 10 A Rated speed 1200 rpm Armature resistance 1 Ω Input to the converter bridge 240 V at 50 Hz The armature of the DC motor is fed from the full-controlled bridge and the field current is kept constant. Assume that the motor is running at 600 rpm and the armature terminals of the motor are suitably reversed for regenerative braking. If the armature current of the motor is to be maintained at the rated value, the triggering angle of the converter bridge in degrees should be ____________ (rounded off to 2 decimal places)."
+233,12476874401,"In a locality, the houses are numbered in the following way: The house-numbers on one side of a road are consecutive odd integers starting from 301, while the house-numbers on the other side of the road are consecutive even numbers starting from 302. The total number of houses is the same on both sides of the road. If the difference of the sum of the house-numbers between the two sides of the road is 27, then the number of houses on each side of the road is"
+234,12476874402,"Which one of the given options is a possible value of x in the following sequence? 3, 7, 15, x, 63, 127, 255"
+235,12476874403,"On a given day, how many times will the second-hand and the minute-hand of a clock cross each other during the clock time 12:05:00 hours to 12:55:00 hours?"
+236,12476874404,Three distinct sets of indistinguishable twins are to be seated at a circular table that has 8 identical chairs. Unique seating arrangements are defined by the relative positions of the people. How many unique seating arrangements are possible such that each person is sitting next to their twin?
+237,12476874405,"During a half-moon phase, the Earth-Moon-Sun form a right triangle. If the Moon-Earth-Sun angle at this half-moon phase is measured to be 89.85°, the ratio of the Earth-Sun and Earth-Moon distances is closest to"
+238,12476874406,"Consider a vapour-liquid mixture of components 𝐴 and 𝐵 that obeys Raoult’s law. The vapour pressure of 𝐴 is half that of 𝐵. The vapour phase concentrations of 𝐴 and 𝐵 are 3 mol m−3 and 6 mol m−3 , respectively. At equilibrium, the ratio of the liquid phase concentration of 𝐴 to that of 𝐵 is"
+239,12476874407,The ratio of the activation energy of a chemical reaction to the universal gas constant is 1000 K. The temperature-dependence of the reaction rate constant follows the collision theory. The ratio of the rate constant at 600 K to that at 400 K is
+240,12476874408,"The rate of a reaction 𝐴 → 𝐵 is 0.2 mol m−3 s −1 at a particular concentration 𝐶𝐴1. The rate constant of the reaction at a given temperature is 0.1 m3 mol−1 s −1 . If the reactant concentration is increased to 10 𝐶𝐴1 at the same temperature, the reaction rate, in mol m−3 s −1 , is"
+241,12476874409,"Consider a matrix A = [ −5 𝑎 −2 −2 ], where 𝑎 is a constant. If the eigenvalues of A are −1 and −6, then the value of 𝑎, rounded off to the nearest integer, is ____________"
+242,12476874410,"Consider the reaction 𝑁2 (𝑔) + 3𝐻2 (𝑔) ⇌ 2𝑁𝐻3 (𝑔) in a continuous flow reactor under steady-state conditions. The component flow rates at the reactor inlet are 𝐹𝑁2 0 = 100 mol s −1 , 𝐹𝐻2 0 = 300 mol s −1 , 𝐹inert 0 = 1 mol s −1 . If the fractional conversion of 𝐻2 is 0.60, the outlet flow rate of 𝑁2, in mol s −1 , rounded off to the nearest integer, is _________"
+243,12476874411,"Consider a binary mixture of components 𝐴 and 𝐵 at temperature 𝑇 and pressure 𝑃. Let 𝑉̅ 𝐴 and 𝑉̅ 𝐵 be the partial molar volumes of 𝐴 and 𝐵, respectively. At a certain mole fraction of 𝐴, 𝑥𝐴 ( 𝜕𝑉̅ 𝐴 𝜕𝑥𝐴 ) 𝑇,𝑃 = 22 cm3 mol−1 and ( 𝜕𝑉̅ 𝐵 𝜕𝑥𝐴 ) 𝑇,𝑃 = −18 cm3 mol−1 The value of 𝑥𝐴, rounded off to 2 decimal places, is ________"
+244,12476874412,"Consider the steady, uni-directional, fully-developed, pressure-driven laminar flow of an incompressible Newtonian fluid through a circular pipe of inner radius 5.0 cm. The magnitude of shear stress at the inner wall of the pipe is 0.1 N m−2 . At a radial distance of 1.0 cm from the pipe axis, the magnitude of the shear stress, in N m−2 , rounded off to 3 decimal places, is ______"
+245,12476874413,"The opposite faces of a metal slab of thickness 5 cm and thermal conductivity 400 W m−1 ℃−1 are maintained at 500 ℃ and 200 ℃. The area of each face is 0.02 m2 . Assume that the heat transfer is steady and occurs only in the direction perpendicular to the faces. The magnitude of the heat transfer rate, in kW, rounded off to the nearest integer, is _______"
+246,12476874414,"The capital cost of a distillation column is Rs. 90 lakhs. The cost is to be fully depreciated (salvage value is zero) using the double-declining balance method over 10 years. At the end of two years of continuous operation, the book-value of the column, in lakhs of rupees, rounded off to 1 decimal place, is _______"
+247,12476874415,"The temperatures of two large parallel plates of equal emissivity are 900 K and 300 K. A reflection radiation shield of low emissivity and negligible conductive resistance is placed parallelly between them. The steady-state temperature of the shield, in K, is"
+248,12476874416,"Hot oil at 110 ℃ heats water from 30 ℃ to 70 ℃ in a counter-current double-pipe heat exchanger. The flow rates of water and oil are 50 kg min−1 and 100 kg min−1 , respectively and their specific heat capacities are 4.2 kJ kg−1 ℃−1 and 2.0 kJ kg−1 ℃−1 , respectively. Assume the heat exchanger is at steady state. If the overall heat transfer coefficient is 200 W m−2 ℃−1 , the heat transfer area in m2 is"
+249,12476874417,"Hot oil at 110 ℃ heats water from 30 ℃ to 70 ℃ in a counter-current double-pipe heat exchanger. The flow rates of water and oil are 50 kg min−1 and 100 kg min−1 , respectively and their specific heat capacities are 4.2 kJ kg−1 ℃−1 and 2.0 kJ kg−1 ℃−1 , respectively. Assume the heat exchanger is at steady state. If the overall heat transfer coefficient is 200 W m−2 ℃−1 , the heat transfer area in m2 is"
+250,12476874418,"A gas stream containing 95 mol% CO2 and 5 mol% ethanol is to be scrubbed with pure water in a counter-current, isothermal absorption column to remove ethanol. The desired composition of ethanol in the exit gas stream is 0.5 mol%. The equilibrium mole fraction of ethanol in the gas phase, 𝑦 ∗ , is related to that in the liquid phase, 𝑥, as 𝑦 ∗ = 2𝑥. Assume CO2 is insoluble in water and neglect evaporation of water. If the water flow rate is twice the minimum, the mole fraction of ethanol in the spent water is"
+251,12476874419,"Sulfur dioxide (SO2) gas diffuses through a stagnant air-film of thickness 2 mm at 1 bar and 30 ℃. The diffusion coefficient of SO2 in air is 1 × 10−5 m2 s −1 . The SO2 partial pressures at the opposite sides of the film are 0.15 bar and 0.05 bar. The universal gas constant is 8.314 J mol−1 K −1 . Assuming ideal gas behavior, the steady-state flux of SO2 in mol m−2 s −1 through the air-film is"
+252,12476874420,"A simple distillation column separates a binary mixture of 𝐴 and 𝐵. The relative volatility of 𝐴 with respect to 𝐵 is 2. The steady-state composition of 𝐴 in the vapour leaving the 1 st , 2 nd and 3 rd trays in the rectifying section are 94, 90 and 85 mol%, respectively. For ideal trays and constant molal overflow, the reflux-to-distillate ratio is"
+253,12476874421,"Alumina particles with an initial moisture content of 5 kg per kg dry solid are dried in a batch dryer. For the first two hours, the measured drying rate is constant at 2 kg m−2 h −1 . Thereafter, in the falling-rate period, the rate decreases linearly with the moisture content. The equilibrium moisture content is 0.05 kg per kg dry solid and the drying area of the particles is 0.5 m2 per kg dry solid. The total drying time, in h, to reduce the moisture content to half its initial value is"
+254,12476874422,"A first-order heterogenous reaction 𝐴 → 𝐵 is carried out using a porous spherical catalyst. Assume isothermal conditions, and that intraphase diffusion controls the reaction rate. At a bulk 𝐴 concentration of 0.3 mol L −1 ,the observed reaction rate in a 3 mm diameter catalyst particle is 0.2 mol s −1 L −1 catalyst volume. At a bulk 𝐴 concentration of 0.1 mol L −1 , the observed reaction rate, in mol s −1L −1 catalyst volume, in a 6 mm diameter catalyst particle, is"
+255,12476874423,"A first-order liquid phase reaction 𝐴 → 𝐵 is carried out in two isothermal plug flow reactors (PFRs) of volume 1 m3 each, connected in series. The feed flow rate and concentration of 𝐴 to the first reactor are 10 m3 h −1 and 1 kmol m−3 , respectively. At steady-state, the concentration of 𝐴 at the exit of the second reactor is 0.2 kmol m−3 . If the two PFRs are replaced by two equal-volume continuously stirred tank reactors (CSTRs) to achieve the same overall steady-state conversion, the volume of each CSTR, in m3 , is"
+256,12476874424,"The Newton-Raphson method is used to solve 𝑓(𝑥) = 0, where 𝑓(𝑥) = 𝑒 𝑥 − 5𝑥. If the initial guess 𝑥 (0) = 1.0, the value of the next iterate, 𝑥 (1) , rounded off to 2 decimal places, is ______"
+257,12476874425,"Consider the line integral ∫ 𝑭(𝒓) ⋅ 𝑑𝒓 𝐶 , with 𝑭(𝒓) = 𝑥 𝒊̂+ 𝑦 𝒋̂+ 𝑧 𝒌̂, where 𝒊̂, 𝒋̂and 𝒌̂ are unit vectors in the (𝑥, 𝑦, 𝑧) Cartesian coordinate system. The path C is given by 𝒓(𝑡) = cos(𝑡) 𝒊̂+ sin(𝑡) 𝒋̂+ 𝑡 𝒌̂, where 0 ≤ 𝑡 ≤ 𝜋. The value of the integral, rounded off to 2 decimal places, is _________"
+258,12476874426,"Consider the ordinary differential equation 𝑥 2 𝑑 2𝑦 𝑑𝑥 2 − 𝑥 𝑑𝑦 𝑑𝑥 − 3𝑦 = 0, with the boundary conditions 𝑦(𝑥 = 1) = 2 and 𝑦(𝑥 = 2) = 17⁄2. The solution 𝑦(𝑥) at 𝑥 = 3⁄2 , rounded off to 2 decimal places, is ___________"
+259,12476874427,"Consider the function 𝑓(𝑥, 𝑦, 𝑧) = 𝑥 4 + 2 𝑦 3 + 𝑧 2 . The directional derivative of the function at the point 𝑃 (−1, 1, −1) along (𝒊̂+ 𝒋̂), where 𝒊̂and 𝒋̂are unit vectors in the x and y directions, respectively, rounded off to 2 decimal places, is _______"
+260,12476874428,"Methane combusts with air in a furnace as 𝐶𝐻4 + 2𝑂2 → 𝐶𝑂2 + 2𝐻2𝑂. The heat of reaction 𝛥𝐻𝑟𝑥𝑛 = −880 kJ per mol 𝐶𝐻4 and is assumed to be constant. The furnace is well-insulated and no other side reactions occur. All components behave as ideal gases with a constant molar heat capacity of 44 J mol−1 ℃−1 . Air may be considered as 20 mol% 𝑂2 and 80 mol% 𝑁2. The air-fuel mixture enters the furnace at 50 °C. The methane conversion 𝑋 varies with the air-to-methane mole ratio, 𝑟, as 𝑋 = 1 − 0.1 𝑒 −2(𝑟−𝑟𝑠 ) with 0.9 𝑟𝑠 ≤ 𝑟 ≤ 1.1 𝑟𝑠 where 𝑟𝑠 is the stoichiometric air-to-methane mole ratio. For 𝑟 = 1.05 𝑟𝑠 , the exit flue gas temperature in ℃, rounded off to 1 decimal place, is ______"
+261,12476874429,"Ethylene obeys the truncated virial equation-of-state 𝑃𝑉 𝑅𝑇 = 1 + 𝐵𝑃 𝑅𝑇 where P is the pressure, V is the molar volume, T is the absolute temperature and B is the second virial coefficient. The universal gas constant 𝑅 = 83.14 bar cm3 mol−1K −1 . At 340 K, the slope of the compressibility factor vs. pressure curve is −3.538 × 10−3 bar−1 . Let 𝐺 𝑅 denote the molar residual Gibbs free energy. At these conditions, the value of ( 𝜕𝐺 𝑅 𝜕𝑃 ) 𝑇 , in cm3 mol−1 , rounded off to 1 decimal place, is ___________"
+262,12476874430,"A metallic spherical particle of density 7001 kg m−3 and diameter 1 mm is settling steadily due to gravity in a stagnant gas of density 1 kg m−3 and viscosity 10−5 kg m−1 s −1 . Take 𝑔 = 9.8 m s −2 . Assume that the settling occurs in the regime where the drag coefficient 𝐶𝐷 is independent of the Reynolds number, and equals 0.44. The terminal settling velocity of the particle, in m s −1 , rounded off to 2 decimal places, is ____"
+263,12476874431,"Heat is available at a rate of 2 kW from a thermal reservoir at 400 K. A two-stage process harnesses this heat to produce power. Stages 1 and 2 reject heat at 360 K and 300 K, respectively. Stage 2 is driven by the heat rejected by Stage 1. If the overall process efficiency is 50% of the corresponding Carnot efficiency, the power delivered by the process, in kW, rounded off to 2 decimal places, is ______"
+264,12476874432,"A PD controller with transfer function 𝐺𝑐 is used to stabilize an open-loop unstable process with transfer function 𝐺𝑝, where 𝐺𝑐 = 𝐾𝑐 𝜏𝐷𝑠 + 1 ( 𝜏𝐷 20) 𝑠 + 1 , 𝐺𝑝 = 1 (𝑠 − 1)(10𝑠 + 1) and time is in minutes. From the necessary conditions for closed-loop stability, the maximum feasible value of 𝜏𝐷, in minutes, rounded off to 1 decimal place, is ____________"
+265,12476874433,"A PD controller with transfer function 𝐺𝑐 is used to stabilize an open-loop unstable process with transfer function 𝐺𝑝, where 𝐺𝑐 = 𝐾𝑐 𝜏𝐷𝑠 + 1 ( 𝜏𝐷 20) 𝑠 + 1 , 𝐺𝑝 = 1 (𝑠 − 1)(10𝑠 + 1) and time is in minutes. From the necessary conditions for closed-loop stability, the maximum feasible value of 𝜏𝐷, in minutes, rounded off to 1 decimal place, is ____________"
+267,12476874435,"How many 4-digit positive integers divisible by 3 can be formed using only the digits {1, 3, 4, 6, 7}, such that no digit appears more than once in a number?"
+268,12476874436,"The probability of a boy or a girl being born is 1/2. For a family having only three children, what is the probability of having two girls and one boy?"
+269,12476874437,"Critical micellar concentration of a surfactant is 0.008 M in water at 25 °C. If the aggregation number of the micelles is 80, the concentration of the micelles (in M) present in 0.088 M aqueous solution of the surfactant at 25 °C is"
+270,12476874438,The crystal field stabilization energy of [Cr(NH3)6] 3+ with Δ0 value of 21600 cm−1 is y cm−1 . The value of |y| is___.
+271,12476874439,The number of metal-metal bond(s) in the complex [(5 ƞ-Cp)Mo(CO)2]2 is x and in [( 5 ƞ-Cp)2Fe2(CO)3] is y. The value of x + y is ___. (Assume 18 electron rule is followed.)
+272,12476874440,"1H NMR spectrum of a mixture containing CH3Br (x mol) and (CH3)3CBr (y mol) shows two singlets at 2.7 ppm and 1.8 ppm, with the relative ratio of 3:1 (integration value), respectively. The value of x/y is ____."
+273,12476874441,The partial vapor pressure of 0.1 molal solution of B in liquid A is 60 kPa at 300 K. The partial vapor pressure (in kPa) of a solution containing B with mole fraction of 0.1 in liquid A at 300 K is ___. (Assume the solute B obeys Henry’s law. The molar mass of A is 80 g mol-1 .)
+274,12476874442,"In the EPR spectrum of an aqueous solution of VOSO4 at room temperature, the total number of hyperfine splitting signals is"
+275,12476874443,The turnover frequency (in h −1 ) of a reaction where 5 mol% of a catalyst is required for 90% conversion in 3 h is ____.
+276,12476874444,"In thermogravimetric analysis, 12.45 mg of CuSO4·5H2O was subjected to heating under N2 atmosphere. At a particular temperature, there was a weight loss of 3.6 mg. The number of water molecule(s) lost per formula unit is ____. (Given molar mass (in g mol-1 ) of H = 1.0, O = 16.0, S = 32.0, and Cu = 63.5)"
+277,12476874445,2 mol of a monoatomic ideal gas with initial volume of 5 L and pressure 10 bar undergoes an irreversible adiabatic expansion against a constant final pressure of 1 bar. The final volume (in L) is ______. (Given: R = 8.314 × 10-2 L bar mol-1 K -1 )
+278,12476874446,"On a given day, how many times will the second-hand and the minute-hand of a clock cross each other during the clock time 12:05:00 hours to 12:55:00 hours?"
+279,12476874447,Three distinct sets of indistinguishable twins are to be seated at a circular table that has 8 identical chairs. Unique seating arrangements are defined by the relative positions of the people. How many unique seating arrangements are possible such that each person is sitting next to their twin?
+280,12476874448,The number of planes of symmetry in a tetrahedron is
+281,12476874449,"Assume heat producing elements are uniformly distributed within a 16 km thick layer in the crust in a heat flow province. Given that the surface heat flow and reduced heat flow are 54 mW/m2 and 22 mW/m2 , respectively, the radiogenic heat production in the given crustal layer in W/m3 is ___________ (in integer)."
+282,12476874450,"A confined aquifer with a uniform saturated thickness of 10 m has hydraulic conductivity of 10−2 cm/s. Considering a steady flow, the transmissivity of the aquifer in m2 /day is _________________ (rounded off to one decimal place)"
+283,12476874451,A current of 2 A passes through a cylindrical rod with uniform cross-sectional area of 4 m2 and resistivity of 100 Ω-m. The magnitude of the electric field (E) measured along the length of the rod in V/m is _______________ (in integer).
+284,12476874452,"In radiometric surveys, potassium in subsurface rocks will show a γ-ray peak in which one of the following MeV energy channels?"
+285,12476874453,Assume the acceleration due to gravity is 10 m/s2 . The geoid height anomaly in metres due to the gravitational potential anomaly of −59 m2 /s 2 measured over the spheroid is
+286,12476874454,"A spherical ore body produces a maximum gravity anomaly of 18 mGal when its centre is at a depth of 2 km from the surface. Assuming that the density contrast and the radius of the body remain unchanged, the ore body will produce a maximum gravity anomaly of 2 mGal if the depth to its centre in km is ______( in integer)."
+287,12476874455,"The ratio of the largest to the smallest amplitude of waveforms that can be accurately recorded by a digital seismometer is reported as 107 . Then, the dynamic range of the seismometer in dB is _____(in integer)."
+288,12476874456,"A petroleum company estimates that a reservoir holds oil with a prior probability of 60 %. It then acquires petrophysical data that suggests the presence of oil. If the petrophysical analysis is accurate with a probability of 70 %, the posterior probability of the presence of oil in % is _____(rounded off to two decimal places)."
+289,12476874457,"The magnitude of horizontal and vertical components of the total magnetic field at a particular location are 40500 nT and 36450 nT, respectively. The magnetic inclination at the same location in degrees is __________(rounded off to one decimal place)."
+290,12476874458,A Wenner resistivity survey was performed with a spacing of 15 m between the current electrodes. Potential difference values of −25 mV and 225 mV were measured before and after injecting 100 mA current into the ground. The apparent resistivity in -m after correcting for the self-potential effect is
+291,12476874459,Nine equally spaced electrodes are placed along a profile to perform Dipole-Dipole multi-electrode resistivity imaging. The maximum number of data points that can be obtained at measurement level n = 2 is
+292,12476874460,"A magnetic field (B) of strength 50000 nT induces a magnetization (M) of magnitude 5 A/m in a rock. Given the magnetic permeability of free space 𝜇0 = 4𝜋 × 10−7 H/m, the susceptibility of the rock is ______________(rounded off to three decimal places)."
+293,12476874461,"The amplitude of a monochromatic 1000 Hz EM wave reduces by a factor of 1/𝑒 after penetrating to a depth of 100 m in a homogeneous medium. Given the magnetic permeability of free space 𝜇0 = 4𝜋 × 10−7 H/m, the electrical conductivity of the medium in S/m is ______________(rounded off to three decimal places)."
+294,12476874462,"A plane P-wave is incident at an angle of 60º with respect to the normal to a horizontal reflector. If the incident medium is a homogeneous Poisson solid (Poisson’s ratio of 0.25), the angle of the reflected, mode-converted S-wave in degrees with respect to the normal is _____(rounded off to one decimal place)."
+295,12476874463,"A marine seismic survey was performed in a region with a flat, horizontal sea bed at a depth of 100 m from the sea surface. The datum of the stacked seismic section was fixed at the sea surface. If the P-wave velocity in water is 1600 m/s, the radius of the first Fresnel zone at the sea bed at a frequency of 50 Hz corresponding to the stacked seismic section is _________(rounded off to one decimal place)."
+296,12476874464,A stacked seismic section shows a single dipping event with a slope of 0.5 s/km. Stolt migration with a constant velocity of 2 km/s is applied to the data. The dip of the event in the migrated section in degrees is _______(rounded off to one decimal place).
+297,12476874465,The number of half-lives (𝑡1/2) required for a radioactive isotope to decrease to 2 % of its original abundance is ________(rounded off to two decimal places).
+298,12476874466,A monochromatic cosine wave with frequency of 0.24 Hz and wavelength 16 km interferes with another monochromatic cosine wave with frequency 0.3 Hz and wavelength 10 km. The group velocity of the resulting wave in km/s is ____________(rounded off to one decimal place).
+316,12476874484,"Find the odd one out in the set: {19, 37, 21, 17, 23, 29, 31, 11} "
+317,12476874485,"In the following series, identify the number that needs to be changed to form the Fibonacci series.  1, 1, 2, 3, 6, 8, 13, 21,… "
+318,12476874486,"Take two long dice (rectangular parallelepiped), each having four rectangular faces labelled as 2, 3, 5, and 7. If thrown, the long dice cannot land on the square faces and has 1/4 probability of landing on any of the four rectangular faces. The label on the top face of the dice is the score of the throw.  If thrown together, what is the probability of getting the sum of the two long dice scores greater than 11? "
+319,12476874487,"The velocity field of a two-dimensional, incompressible flow is given by  𝑉 ⃗ = 2 sinh𝑥 𝑖 + 𝑣(𝑥,𝑦) 𝑗 where 𝑖 and 𝑗 denote the unit vectors in  𝑥 and 𝑦 directions, respectively. If 𝑣(𝑥,0) = cosh𝑥, then 𝑣(0,−1) is "
+320,12476874488,"Consider incompressible laminar flow over a flat plate with freestream velocity of 𝑢∞. The Nusselt number corresponding to this flow velocity is 𝑁𝑢1. If the freestream velocity is doubled, the Nusselt number changes to 𝑁𝑢2. What is the value for 𝑁𝑢2 / 𝑁𝑢1.   "
+321,12476874489,A furnace can supply heat steadily at 1200 K at a rate of 24000 kJ/min. The maximum amount of power (in kW) that can be produced by using the heat supplied by this furnace in an environment at 300 K is 
+322,12476874490,"The change in kinetic energy ∆𝐸 of an engine is 300 J, and minimum and maximum shaft speeds are 𝜔 𝑚𝑖𝑛 = 220 rad/s and 𝜔 𝑚𝑎𝑥 = 280 rad/s, respectively. Assume that the torque-time function is purely harmonic. To achieve a coefficient of fluctuation of 0.05, the moment of inertia (in kg.m^2) of the flywheel to be mounted on the engine shaft is "
+323,12476874491,"A linear spring-mass-dashpot system with a mass of 2 kg is set in motion with viscous damping. If the natural frequency is 15 Hz, and the amplitudes of two successive cycles measured are 7.75 mm and 7.20 mm, the coefficient of viscous damping (in N.s / m) is   "
+324,12476874492,"A queueing system has one single server workstation that admits an infinitely long queue. The rate of arrival of jobs to the queueing system follows the Poisson distribution with a mean of 5 jobs/hour. The service time of the server is exponentially distributed with a mean of 6 minutes. In steady state operation of the queueing system, the probability that the server is not busy at any point in time is "
+325,12476874493,"A company orders gears in conditions identical to those considered in the economic order quantity (EOQ) model in inventory control. The annual demand is 8000 gears, the cost per order is 300 rupees, and the holding cost is 12 rupees per month per gear. The company uses an order size that is 25% more than the optimal order quantity determined by the EOQ model. The percentage change in the total cost of ordering and holding inventory from that associated with the optimal order quantity is "
+326,12476874494,"If 𝑥(𝑡) satisfies the differential equation 𝑡 *𝑑𝑥/𝑑𝑡 +(𝑡 −𝑥) =0 subject to the condition 𝑥(1) = 0,  then the value of 𝑥(2) is ________ (rounded off to 2 decimal places). "
+327,12476874495,"Let 𝑋 be a continuous random variable defined on [0,1] such that its probability density function 𝑓(𝑥) = 1 for 0 ≤ 𝑥 ≤ 1 and 0 otherwise. Let 𝑌 = ln(𝑋 + 1). Then the expected value of 𝑌 is_____. (rounded off to 2 decimal places) "
+328,12476874496,"Consider an air-standard Brayton cycle with adiabatic compressor and turbine, and a regenerator, as shown in the figure. Air enters the compressor at 100 kPa and 300 K and exits the compressor at 600 kPa and 550 K. The air exits the combustion chamber at 1250 K and exits the adiabatic turbine at 100 kPa and 800 K. The exhaust air from the turbine is used to preheat the air in the regenerator. The exhaust air exits the regenerator (state 6) at 600 K. There is no pressure drop across the regenerator and the combustion chamber. Also, there is no heat loss from the regenerator to the surroundings. The ratio of specific heats at constant pressure and volume is 𝑐𝑝 / 𝑐𝑣 1.4. The thermal efficiency of the cycle is _________ % (answer in integer). "
+329,12476874497,"Consider a slab of 20 mm thickness. There is a uniform heat generation of  𝑞 = 100 MW/m^3 inside the slab. The left and right faces of the slab are maintained at 150 °C and 110 °C, respectively. The plate has a constant thermal conductivity of 200 W/(m.K). Considering a 1-D steady state heat conduction, the location of the maximum temperature from the left face will be at _____mm (answer in integer).  "
+330,12476874498,"A condenser is used as a heat exchanger in a large steam power plant in which steam is condensed to liquid water. The condenser is a shell and tube heat exchanger which consists of 1 shell and 20,000 tubes. Water flows through each of the tubes at a rate of 1 kg/s with an inlet temperature of 30 °C. The steam in the condenser shell condenses at the rate of 430 kg/s at a temperature of 50 °C. If the heat of vaporization is 2.326 MJ/kg and specific heat of water is 4 kJ/(kg.K), the effectiveness of the heat exchanger is ________ (rounded off to 3 decimal places). "
+331,12476874499,"Consider a hemispherical furnace of diameter 𝐷 = 6 m with a flat base. The dome of the furnace has an emissivity of 0.7 and the flat base is a blackbody. The base and the dome are maintained at uniform temperature of 300 K and 1200 K, respectively. Under steady state conditions, the rate of radiation heat transfer from the dome to the base is ________kW (rounded off to the nearest integer). Use Stefan-Boltzmann constant = 5.67 ×10^(-8) W/(m^2 K^4)"
+332,12476874500,"A liquid fills a horizontal capillary tube whose one end is dipped in a large pool of the liquid. Experiments show that the distance 𝐿 travelled by the liquid meniscus inside the capillary in time 𝑡 is given by  𝐿 =𝑘 * 𝛾^𝑎 * 𝑅^𝑏 * 𝜇^𝑐 * √𝑡 , where 𝛾 is the surface tension, 𝑅 is the inner radius of the capillary, and 𝜇 is the dynamic viscosity of the liquid. If 𝑘 is a dimensionless constant, then the exponent 𝑎 is __________ (rounded off to 1 decimal place). "
+333,12476874501,"A cutting tool provides a tool life of 60 minutes while machining with the cutting speed of 60 m/min. When the same tool is used for machining the same material, it provides a tool life of 10 minutes for a cutting speed of 100 m/min. If the cutting speed is changed to 80 m/min for the same tool and work material combination, the tool life computed using Taylor’s tool life model is____________ minutes (rounded off to 2 decimal places). "
+334,12476874502,Aluminium is casted in a cube-shaped mold having dimensions as 20 mm × 20 mm × 20 mm. Another mold of the same mold material is used to cast a sphere of aluminium having a diameter of 20 mm. The pouring temperature for both cases is the same. The ratio of the solidification times of the cube-shaped mold to the spherical mold is ________ (answer in integer). 
+335,12476874503,A blanking operation is performed on C20 steel sheet to obtain a circular disc having a diameter of 20 mm and a thickness of 2 mm. An allowance of 0.04 is provided. The punch size used for the operation is ___________ mm (rounded off to 2 decimal places). 
+336,12476874504,"In an arc welding process, the voltage and current are 30 V and 200 A, respectively. The cross-sectional area of the joint is 20 mm^2 and the welding speed is 5 mm/s. The heat required to melt the material is 20 J/s. The percentage of heat lost to the surrounding during the welding process is _________ (rounded off to 2 decimal places). "
+337,12476874505,"A flat surface of a C60 steel having dimensions of 100 mm (length) × 200 mm (width) is produced by a HSS slab mill cutter. The 8-toothed cutter has 100 mm diameter and 200 mm width. The feed per tooth is 0.1 mm, cutting velocity is 20 m/min and depth of cut is 2 mm. The machining time required to remove the entire stock is _____________ minutes (rounded off to 2 decimal places). "
+338,12476874506,"A student was supposed to multiply a positive real number 𝑝 with another positive real number 𝑞. Instead, the student divided 𝑝 by 𝑞. If the percentage error in the student’s answer is 80%, the value of 𝑞 is "
+339,12476874507,"A rectangular mine airway of 2.0 m width and 2.5 m height has a bend with deflection of 𝜋/4 radian. If the radius of curvature of the bend is 4.0 m, the shock factor of the bend is (round off to three decimals) "
+340,12476874508,"In an underground coal mine, two fatalities and three serious bodily injuries occurred during the year 2022. The average daily employment is 1100 and annual working days is 300. The severity index as per DGMS guideline for the mine is  "
+341,12476874509,"For a geared engine winding system, the man winding cage is placed at its normal position at pit top of the shaft. As per CMR 2017, the minimum space, in m, between the center of the hole of the detaching hook attached to the rope shackle and detaching belt plate is  "
+342,12476874510,"In a M/M/1 system, the inter-arrival time of dumpers to a shovel follows exponential distribution with a mean arrival rate of 9 dumpers per hour. The service time of the shovel follows exponential distribution with a mean service rate of 12 dumpers per hour. The probability that exactly one dumper is available to the shovel is  "
+343,12476874511,"The magnitude of the curl of the vector 𝐅 = 2𝑥𝐢 + 3𝑦𝐣 + 4𝑧𝐤, is   "
+344,12476874512,"An explosive with a density of 1.2 g/cm^3 has a heat of explosion equal to 900 cal/g. If the heat of explosion of ANFO with density of 0.8 g/cm^3 is 950 cal/g, the bulk strength of the explosive relative to ANFO is _____. (round off up to 2 decimals)  "
+345,12476874513,"A coal washery discharges 300 m^3/day of contaminated water in a stream having a flow rate of 0.04 m^3/s. The DO level of the stream and the contaminated water are 8.5 mg/L and 4 mg/L, respectively. Neglecting the impact of temperature, the resultant DO, in mg/L, of the stream just after mixing is_______. (round off up to 2 decimals)  "
+346,12476874514,"The combined sound pressure level measured at a point in a production bench due to one dumper and one shovel is 95 dB(A). If the sound pressure level of shovel alone is 90 dB(A), the sound pressure level of the dumper alone, in dB(A), at the same point is________, (round off up to 2 decimals)  "
+347,12476874515,"The void ratio of an unconsolidated soil heap of volume 1000 m^3 is 1.0. If the soil heap is consolidated to a volume of 800 m^3, the corresponding void ratio is________. (round off up to 2 decimals)"
+348,12476874516,"For a circular path of radius 300 m, the super elevation is restricted to 0.1 m for a width of 1.6 m. The maximum speed, in m/s, of vehicle to avoid overturn is ____. (round off up to 2 decimals) "
+349,12476874517,"In a VCR stope, blast holes of 165 mm diameter are drilled. For the blast hole to behave as a spherical charge, the maximum charge length, in m, is_____. (round off up to 2 decimals)  "
+350,12476874518,"A rectangular development heading of dimension 3 m × 2.8 m is to be blasted with holes of 2.4 m in length. If the pull factor is 0.95 and swell factor is 1.20, the volume of blasted rock per round, in m^3, is______.  (round off up to 2 decimals) "
+351,12476874519,"Four identical districts of a mine are ventilated with a quantity of 3500 m^3/min at a fan drift pressure of 1.15 kPa. When one of the districts is sealed off, the change in resultant resistance is 0.072 Ns^2 m^(−8). If the fan is stopped, keeping a district sealed, the quantity through the mine becomes 850 m^3/min. The natural ventilation pressure in Pa, is    "
+352,12476874520,"A thermal power plant has an agreement with three mines M1, M2 and M3 to receive ‘Grade 1’ coal, in the proportion of 60%, 25% and 15%, respectively. The probabilities that a wagon supplied coal to the plant containing below ‘Grade 1’ from mines M1, M2 and M3 are 0.02, 0.03 and 0.04, respectively. On a random check, a sample wagon is found to carry below ‘Grade 1’ coal. The probability that the wagon belongs to mine M1, is ______.  (round off up to 2 decimals)"
+353,12476874521,"Polluted air with particulate matters of diameter 50 µm enter with a horizontal velocity of 1.0 m/s at a height of 0.5 m from the bottom of a dry settling chamber. The density of the particle is 2000 kg/m^3 and dynamic viscosity of the air is 1.8 × 10^(−5) kg/m-s.  Assume streamline flow and the density of air is negligible as compared to particles and uniform horizontal velocity of 1.0 m/s of gas and particles within the chamber.  Considering particle settling follows Stoke’s law, the minimum length in m, of the chamber required for settling of the particle at its bottom, is ______.  (round off up to 2 decimals)  "
+354,12476874522,"The data obtained from an air sample analysis of an old working in a coal mine are given.   O2 17.15%, CO2 3.40%, CH4 2.20%, and N2 77.25%.  Considering atmospheric air contains  O2 20.95%, CO2 0.03%, and N2 79.02%,  the percentage of blackdamp in the old working, is __. (round off up to 2 decimals) "
+355,12476874523,"A rectangular face of 2.0 m x 2.5 m dimension is blasted with 20 kg explosive in a 1000 m long drive. One kilogram of explosive produces 2200 cm^3 of nitrous fumes. The face is ventilated with a duct, located 10.0 m away from the face, to dilute the fumes.  The quantity of air, in m^3/s to be circulated for reducing the concentration of nitrous fumes to 5 ppm within a period of 5 minutes, is ____. (round off up to 2 decimals)  [Use the relation, 𝑡 = (2.303*𝑉𝑚 / 𝑄) * (log (𝑞 / 𝑉𝑚 * 𝑐)) + (𝑉−𝑉𝑚) / 𝑄 , where t = time, 𝑉𝑚 = volume of the tunnel over which the mixing of the gases produced at the face, and air delivered by the fan occurs, 𝑐 = concentration at time, t, 𝑉 = volume of tunnel, 𝑄 = quantity of air flow, 𝑞 = total volume of nitrous fumes produced] "
+356,12476874524,"The root of the function, 𝑓(𝑥) = 𝑥^3 − 2𝑥^2 + 3𝑥 − 1 in the interval [0, 1] using bisection method after two iterations, is ______.  (round off up to 2 decimals) "
+357,12476874525,"A Bord and Pillar panel is developed at a depth of 250 m in a flat coal seam. The vertical stress gradient is 0.027 MPa/m. If the strength of a square pillar is 12.5 MPa, the extraction ratio of the pillar for a safety factor of 1.5, is ______.  (round off up to 2 decimals)"
+358,12476874526,"A Mohr-Coulomb envelop between shear stress, τ and normal stress, 𝜎𝑛 of a sandstone rock is given as  𝜏 = 7.5+0.84 𝜎𝑛 (unit of stresses is MPa) A sandstone sample is tested in triaxial mode with confining pressure of 5.0 MPa. The value of the shear stress, 𝜏 in MPa at the failure, is______.  (round off up to 2 decimals) "
+359,12476874527,"The real rate of return from a mining project is 14%. If the inflation rate over the entire life of the mine is 5.5 %, then the nominal rate of return in %, is ______.  (round off up to 2 decimals) "
+360,12476874528,"A 35.0 kW motor transmits power to a pulley of 600 mm diameter, which rotates at 400 rpm to drive a flat belt. The tension in the tight side is 2.5 times of the slack side. Neglect all transmission losses. If the maximum allowable tension is 8.0 N per mm of belt width, then the minimum width of the belt in mm, is ______. (round off up to 2 decimals)  "
+361,12476874529,"In a development coal face, 12 holes are drilled and charged with explosive. Holes are initiated with electric delay detonators connected in series. The length of a detonator lead wire is 1.5 m. The length of the blasting cable is 120 m.  Data are as given:  Resistance of each detonator : 1.48 Ω , Resistance of lead wire : 0.04 Ω/m , Resistance of one wire of the blasting cable : 0.009 Ω/m. The total resistance of the circuit in Ω, is ______.  (round off up to 2 decimals) "
+364,12476874532,"Consider three processes (process id 0, 1, 2 respectively) with compute time bursts 2, 4 and 8 time units. All processes arrive at time zero. Consider the longest remaining time first (LRTF) scheduling algorithm. In LRTF ties are broken by giving priority to the process with the lowest process id. The average turn around time is:
+1. 13 units
+2. 14 units
+3. 15 units
+4. 16 units
+"
+365,12476874533,"Consider three processes, all arriving at time zero, with total execution time of 10, 20 and 30 units, respectively. Each process spends the first 20% of execution time doing I/O, the next 70% of time doing computation, and the last 10% of time doing I/O again. The operating system uses a shortest remaining compute time first scheduling algorithm and schedules a new process either when the running process gets blocked on I/O or when the running process finishes its compute burst. Assume that all I/O operations can be overlapped as much as possible. For what percentage of time does the CPU remain idle?
+1. 0%
+2. 10.6%
+3. 30.0%
+4. 89.4%
+"
+367,12476874535,"A chemical rocket with an ideally expanded flow through the nozzle produces 
+5×10^6 N thrust at sea level. The specific impulse of the rocket is 200 s and 
+acceleration due to gravity at the sea level is 9.8 m/s^2. The propellent mass flow 
+rate out of the rocket nozzle is _________ kg/s (rounded off to the nearest integer). "
+369,12476874537,"Consider an artificial satellite moving around the Moon in an elliptic orbit. The 
+altitude of the satellite from the Moon’s surface at the perigee is 25 km and that at 
+the apogee is 134 km. Assume the Moon to be spherical with a radius of 1737 km. 
+The trajectory is considered with reference to a coordinate system fixed to the center 
+of mass of the Moon. The ratio of the speed of the satellite at the perigee to that at 
+the apogee is ___________ (rounded off to 2 decimal places).  "
+373,12476874541,"Consider three CPU-intensive processes, which require 10, 20 and 30 time units and arrive at times 0, 2 and 6, respectively. How many context switches are needed if the operating system implements a shortest remaining time first scheduling algorithm? Do not count the context switches at time zero and at the end."
+374,12476874542,"Group 1 contains some CPU scheduling algorithms and Group 2 contains some applications. Match entries in Group 1 to entries in Group 2.
+
+     Group I                          Group II
+(P) Gang Scheduling              (1) Guaranteed Scheduling
+(Q) Rate Monotonic Scheduling    (2) Real-time Scheduling
+(R) Fair Share Scheduling        (3) Thread Scheduling
+1. P – 3 Q – 2 R – 1
+
+2. P – 1 Q – 2 R – 3
+
+3. P – 2 Q – 3 R – 1
+
+4. P – 1 Q – 3 R – 2"
+375,12476874543,"An operating system uses Shortest Remaining Time first (SRT) process scheduling algorithm. Consider the arrival times and execution times for the following processes:
+Process  Execution time  Arrival time
+P1             20            0
+P2             25            15
+P3             10            30
+P4             15            45
+What is the total waiting time for process P2?"
+376,12476874544,"Three processes A, B and C each execute a loop of 100 iterations. In each iteration of the loop, a process performs a single computation that requires tc CPU milliseconds and then initiates a single I/O operation that lasts for tio milliseconds. It is assumed that the computer where the processes execute has sufficient number of I/O devices and the OS of the computer assigns different I/O devices to each process. Also, the scheduling overhead of the OS is negligible. The processes have the following characteristics:
+
+ Process id      tc           tio
+     A        100 ms    500 ms
+     B        350 ms    500 ms
+     C        200 ms    500 ms
+The processes A, B, and C are started at times 0, 5 and 10 milliseconds respectively, in a pure time sharing system (round robin scheduling) that uses a time slice of 50 milliseconds. The time in milliseconds at which process C would complete its first I/O operation is ___________."
+377,12476874545,"An operating system uses shortest remaining time first scheduling algorithm for pre-emptive scheduling of processes. Consider the following set of processes with their arrival times and CPU burst times (in milliseconds):
+Process      Arrival Time    Burst Time
+  P1           0               12
+  P2           2               4
+  P3           3               6
+  P4           8               5
+The average waiting time (in milliseconds) of the processes is _________."
+378,12476874546,"Consider the following set of processes, with the arrival times and the CPU-burst times given in milliseconds
+  Process   Arrival Time    Burst Time
+    P1          0              5
+    P2          1              3
+    P3          2              3
+    P4          4              1
+What is the average turnaround time for these processes with the preemptive shortest remaining processing time first (SRPT) algorithm ?"
+379,12476874547,"Consider a uniprocessor system executing three tasks T1, T2 and T3, each of which is composed of an infinite sequence of jobs (or instances) which arrive periodically at intervals of 3, 7 and 20 milliseconds, respectively. The priority of each task is the inverse of its period and the available tasks are scheduled in order of priority, with the highest priority task scheduled first. Each instance of T1, T2 and T3 requires an execution time of 1, 2 and 4 milliseconds, respectively. Given that all tasks initially arrive at the beginning of the 1st milliseconds and task preemptions are allowed, the first instance of T3 completes its execution at the end of ______________ milliseconds."
+380,12476874548,"For the processes listed in the following table, which of the following scheduling schemes will give the lowest average turnaround time?
+Process    Arrival Time    Processing Time
+  A              0              3
+  B              1              6
+  C              4              4
+  D              6              2
+1. First Come First Serve
+2. Non-preemptive Shortest Job First
+3. Shortest Remaining Time
+4. Round Robin with Quantum value two
+"
+381,12476874549,"We wish to schedule three processes P1, P2 and P3 on a uniprocessor system. The priorities, CPU time requirements and arrival times of the processes are as shown below.
+ 
+ Process           Priority                  CPU time required             Arrival time (hh:mm:ss)  
+ P1         10(highest)         20 sec         00:00:05
+ P2         9         10 sec         00:00:03
+ P3         8 (lowest)         15 sec         00:00:00
+We have a choice of preemptive or non-preemptive scheduling. In preemptive scheduling, a late-arriving higher priority process can preempt a currently running process with lower priority. In non-preemptive scheduling, a late-arriving higher priority process must wait for the currently executing process to complete before it can be scheduled on the processor.
+
+ What are the turnaround times (time from arrival till completion) of P2 using preemptive and non-preemptive scheduling respectively.
+
+1. 30 sec, 30 sec
+
+2. 30 sec, 10 sec
+
+3. 42 sec, 42 sec
+
+4. 30 sec, 42 sec
+"
+382,12476874550,"Consider the following snapshot of a system running n processes. Process i is holding Xi instances of a resource R, 1 <= i <= n. currently, all instances of R are occupied. Further, for all i, process i has placed a request for an additional Yi instances while holding the Xi instances it already has. There are exactly two processes p and q such that Yp = Yq = 0. Which one of the following can serve as a necessary condition to guarantee that the system is not approaching a deadlock?
+1. min (Xp, Xq) < max (Yk) where k != p and k != q
+2. Xp + Xq >= min (Yk) where k != p and k != q
+3. max (Xp, Xq) > 1
+4. min (Xp, Xq) > 1
+"
+383,12476874551,"Three concurrent processes X, Y, and Z execute three different code segments that access and update certain shared variables. Process X executes the P operation (i.e., wait) on semaphores a, b and c; process Y executes the P operation on semaphores b, c and d; process Z executes the P operation on semaphores c, d, and a before entering the respective code segments. After completing the execution of its code segment, each process invokes the V operation (i.e., signal) on its three semaphores. All semaphores are binary semaphores initialized to one. Which one of the following represents a deadlockfree order of invoking the P operations by the processes? (GATE CS 2013)
+
+1. X: P(a)P(b)P(c) Y:P(b)P(c)P(d) Z:P(c)P(d)P(a)
+
+2. X: P(b)P(a)P(c) Y:P(b)P(c)P(d) Z:P(a)P(c)P(d)
+
+3. X: P(b)P(a)P(c) Y:P(c)P(b)P(d) Z:P(a)P(c)P(d)
+
+4. X: P(a)P(b)P(c) Y:P(c)P(b)P(d) Z:P(c)P(d)P(a)"
+384,12476874552,"For an aircraft moving at 4 km altitude above mean sea level at a Mach number of 
+0.2, the ratio of equivalent air speed to true air speed is _______ (rounded off to 2 
+decimal places).  
+The density of air at mean sea level is 1.225 kg/m^3 and at 4 km altitude is 
+0.819 kg/m^3."
+385,12476874553,"Dissolving 1.24 g of white phosphorous in boiling NaOH solution in an inert atmosphere gives a gas Q.
+The amount of CuSO4 (in g) required to completely consume the gas Q is _______.
+"
+386,12476874554,"For a general aviation airplane, one of the complex conjugate pair of eigenvalues 
+for longitudinal dynamics is given by −0.039 ± 0.0567 𝑖 (in SI units). If the 
+system is disturbed to excite only this mode, the time taken for the amplitude of 
+response to become half in magnitude is _______ s (rounded off to 1 decimal place). "
+387,12476874555,The treatment of an aqueous solution of 3.74 g of Cu(NO3)2 with excess KI results in a brown solution along with the formation of a precipitate. Passing H2S through this brown solution gives another precipitate X. The amount of X (in g) is
+388,12476874556,"An airplane of mass 1000 kg is in a steady level flight with a speed of 50 m/s. The 
+wing has an elliptic planform with a span of 20 m and planform area 31.4 m^2. 
+Assuming the density of air at that altitude to be 1 kg/m^3 and acceleration due to 
+gravity to be 10 m/s^2, the induced drag on the wing is _________ N (rounded off to 
+1 decimal place). "
+389,12476874557,"2 mol of Hg(g) is combusted in a fixed volume bomb calorimeter with excess of O2 at 298 K and 1 atm into HgO(s). During the reaction, temperature increases from 298.0 K to 312.8 K. If heat capacity of the bomb calorimeter and enthalpy of formation of Hg(g) are 20.00 kJ K–1 and 61.32 kJ mol–1 at 298 K, respectively, the calculated standard molar enthalpy of formation of HgO(s) at 298 K is X kJ mol–1. The value of |X| is _______."
+390,12476874558,"It is desired to estimate the aerodynamic drag, D, on a car traveling at a speed of  
+30 m/s. A one-third scale model of the car is tested in a wind-tunnel following the 
+principles of dynamic similarity. The drag on the scaled model is measured to be 
+Dm. The ratio D/Dm is _________ (rounded off to 1 decimal place)."
+391,12476874559,"f y(x) is the solution of the differential equation xdy – (y2 – 4y)dx = 0 for x > 0, y(1) = 2, and the slope of the curve y = y(x) is never zero, then the value of 10y(√2) is ______."
+392,12476874560,"The number of 4-digit integers in the closed interval [2022, 4482] formed by using the digits 0, 2, 3, 4, 6, 7 is ______."
+393,12476874561," Let l1, l2, …, l100 be consecutive terms of an arithmetic progression with common difference d1, and let w1, w2, …, w100 be consecutive terms of another arithmetic progression with common difference d2, where d1d2 = 10. For each i = 1, 2, …, 100, let Ri be a rectangle with length li, width wi and area Ai. If A51 − A50 = 1000, then the value of A100 − A90 is ____________."
+394,12476874562,"Two fair dice with numbered faces are rolled together. The faces are numbered from 
+1 to 6. The probability of getting odd numbers on both the dice is 
+________________ (rounded off to 2 decimal places)."
+395,12476874563,"A material has Poisson’s ratio 𝜈=0.5 and Young’s modulus E=2500 MPa. The 
+percentage change in its volume when subjected to a hydrostatic stress of magnitude 
+10 MPa is ______ (answer in integer). "
+396,12476874564," In a study about a pandemic, data of 900 persons was collected. It was found that 190 persons had symptom of fever, 220 persons had symptom of cough,220 persons had symptom of breathing problem, 330 persons had symptom of fever or cough or both, 350 persons had symptom of cough or breathing problem or both, 340 persons had symptom of fever or breathing problem or both, 30 persons had all three symptoms (fever, cough and breathing problem). If a person is chosen randomly from these 900 persons, then the probability that the person has at most one symptom is _____________.
+"
+397,12476874565,"An airplane experiences a net vertical ground reaction of 15000 N during landing. 
+The weight of the airplane is 10000 N. The landing vertical load factor, defined as 
+the ratio of inertial load to the weight of the aircraft, is __________ (rounded off to 
+1 decimal place)."
+398,12476874566,"An aircraft with a turbojet engine is flying with 250 m/s speed at an altitude, 
+where the density of air is 1 kg/m^3. The inlet area of the engine is 1 m^2. The 
+average velocity of the exhaust gases at the exit of the nozzle, with respect to 
+aircraft, is 550 m/s. Assume the engine exit pressure is equal to the ambient 
+pressure and the fuel-air ratio is negligible. The uninstalled thrust produced  
+by the engine at these conditions is "
+399,12476874567,"Using thin airfoil theory, the lift coefficient of a NACA 0012 airfoil placed at 5 deg
+angle of attack in a uniform flow is _____________ (rounded off to 2 decimal 
+places). "
+400,12476874568,"The mean and variance of a dataset are 16 and 25, respectively. The coefficient of 
+variation of the dataset, in %, is __________. (Rounded off to 2 decimal places)  "
+401,12476874569,"The chances for passing an endurance test for three threshers P, Q and R are 1/6, 
+1/4, and 1/2, respectively. The probability of passing the endurance test by at least 
+one thresher, in fraction, is __________. (Rounded off to 2 decimal places)"
+402,12476874570,"The height of adult males at 5th, 50th and 95th percentiles are 162 cm, 173 cm and           
+185 cm, respectively. The minimum inside height of the tractor cab required to 
+ensure the satisfactory design based on the given data, in cm, is __________. 
+(Answer in integer)  "
+403,12476874571,"A chain drive is used to transmit power from a DC motor to the shaft of a solar 
+energy operated thresher by reducing the speed from 240 rpm to 120 rpm. The 
+number of teeth on the driving sprocket is 20 and the pitch circle diameter of the 
+driven sprocket is 600 mm. The pitch of the chain used, in mm, is __________. 
+(Rounded off to 2 decimal places) "
+404,12476874572,"A tractor drawn rotavator with a rotor radius 300 mm has 6 flanges having 3 blades 
+in each flange acting in one plane. It is operated at a rotor speed of 180 rpm and a 
+forward speed of 3 km.h^-1. Increasing the forward speed as well as the rotor speed 
+by 15% each, the change in length of soil slice, in mm, is __________. (Answer in 
+integer) "
+405,12476874573,"The air standard cycle efficiency of the Otto cycle is 56% and heat supplied is  
+12.5 kJ, the heat rejected during the cycle, in kJ, is __________. (Rounded off to 2 
+decimal places)  "
+406,12476874574,"The slope length of an area having land slope of 6% is reduced to half while other 
+conditions are kept unchanged. The reduction in annual soil loss from the area,  
+in %, is __________. (Rounded off to 2 decimal places) "
+407,12476874575,"The excess water from a watershed of area 16.95 km^2 is drained out through a 
+channel at an average rate of 2.8 m^3.s^-1. Drainage coefficient of the watershed,  
+in cm, is __________. (Rounded off to 2 decimal places)   "
+408,12476874576,"Freshly harvested shrimps of 100 kg having initial temperature of 25 °C are frozen 
+to −18 °C. The specific heat (cp) of shrimp above and below freezing point (0 °C) 
+are 3.64 kJ.kg^-1.°C^-1 and 2.01 kJ.kg^-1.°C^-1, respectively. Considering the latent heat 
+of fusion as 240 kJ.kg^-1, the heat load removed during the process, in kJ, is 
+__________. (Rounded off to 1 decimal place)"
+409,12476874577,"An indented cylinder type rice grader has been fed with milled rice containing 18 % 
+brokens. After separation, head rice stream contains 3 % brokens and the broken 
+stream carried away 4 % head rice. The effectiveness of the given rice grader on the 
+basis of head rice separation, in fraction, is __________. (Rounded off to 3 decimal 
+places) "
+410,12476874578,"A projectile is fired from horizontal ground with speed v and projection angle θ. When the acceleration due to gravity is g, the range of the projectile is d. If at the highest point in its trajectory, the projectile enters a different region where the effective acceleration due to gravity is g’= g/0.81, then the new range is d′ = nd. The value of n is _____."
+411,12476874579,"A single effect evaporator concentrates 9090 kg.h^-1 herbal extract of 12 % solids 
+entering at 300 K to a final solid concentration of 20 %. Assuming negligible product 
+loss through vapor, the amount of concentrated product, in kg, is __________. 
+(Answer in integer)  "
+412,12476874580,"Two spherical stars A and B have densities ρA and ρB, respectively. A and B have the same radius, and their masses MA and MB are related by MB = 2MA. Due to an interaction process, star A loses some of its mass, so that its radius is halved, while its spherical shape is retained, and its density remains ρA. The entire mass lost by A is deposited as a thick spherical shell on B with the density of the shell being ρA. If vA and vB are the escape velocities from A and B after the interaction process, the ratio"
+413,12476874581,"A solid sphere of mass 1 kg and radius 1 m rolls without slipping on a fixed inclined plane with an angle of inclination θ = 30° from the horizontal. Two forces of magnitude 1 N each, parallel to the incline, act on the sphere, both at distance r = 0.5 m from the center of the sphere, as shown in the figure. The acceleration of the sphere down the plane is ______ ms–2."
+414,12476874582,"At time t = 0, a disk of radius 1 m starts to roll without slipping on a horizontal plane with an angular acceleration of α = ⅔ rad s-2. A small stone is stuck to the disk. At t = 0, it is at the contact point of the disk and the plane. Later, at time t = √π s the stone detaches itself and flies off tangentially from the disk. The maximum height (in m) reached by the stone measured from the plane is
+"
+415,12476874583,"A rod of length 2 cm makes an angle 2π/3 rad with the principal axis of a thin convex lens. The lens has a focal length of 10 cm and is placed at a distance of 40/3 cm from the object as shown in the figure. The height of the image is (30√3)/13 cm and the angle made by it with respect to the principal axis is α rad. The value of α is π/n rad, where n is"
+416,12476874584,"Consider an LC circuit, with inductance L = 0.1 H and capacitance C = 10–3 F, kept on a plane. The area of the circuit is 1 m2. It is placed in a constant magnetic field of strength B0, which is perpendicular to the plane of the circuit. At time t = 0, the magnetic field strength starts increasing linearly as B = B0 + βt with β = 0.04 Ts–1. The maximum magnitude of the current in the circuit is _____ mA."
+417,12476874585,"Let m[0]…m[4] be mutexes (binary semaphores) and P[0] …. P[4] be processes. Suppose each process P[i] executes the following:
+  wait (m[i]); wait(m[(i+1) mode 4]);
+  ------
+  release (m[i]); release (m[(i+1)mod 4]); 
+This could cause:
+1. Thrashing
+2. Deadlock
+3. Starvation, but not deadlock
+4. None of the above"
+418,12476874586,A system has 6 identical resources and N processes competing for them. Each process can request atmost 2 resources. Which one of the following values of N could lead to a deadlock?
+419,12476874587,"Consider the following policies for preventing deadlock in a system with mutually exclusive resources.
+I. Processes should acquire all their resources at the 
+   beginning of execution.  If any resource is not  
+   available, all resources acquired so far are released.
+II. The resources are numbered uniquely, and processes are 
+    allowed to request for resources only in increasing 
+    resource numbers.
+III. The resources are numbered uniquely, and processes are
+     allowed to request  for resources only in decreasing 
+     resource numbers.
+IV. The resources are numbered uniquely. A process is allowed
+    to request only for a resource with resource number larger
+    than its currently held resources.
+Which of the above policies can be used for preventing deadlock?
+1. Any one of I and III but not II or IV
+2. Any one of I, III and IV but not II
+3. Any one of II and III but not I or IV
+4. Any one of I, II, III and IV"
+420,12476874588,"What is the minimum number of resources required to ensure that deadlock will never occur, if there are currently three processes P1, P2 and P3 running in a system whose maximum demand for the resources of same type are 3, 4, and 5 respectively."
+421,12476874589,"A total of 9 units of a resource type available, and given the safe state shown below, which of the following sequence will be a safe state?
+Process   Used    Max
+  P1        2      7
+  P2        1      6
+  P3        2      5
+  P4        1      4
+1. (P4, P1, P3, P2)
+2. (P4, P2, P1, P3)
+3. (P4, P2, P3, P1)
+4. (P3, P1, P2, P4)"
+422,12476874590,"Consider a system having ""n"" resources of same type. These resources are shared by 3 processes, A, B, C. These have peak demands of 3, 4, and 6 respectively. For what value of ""n"" deadlock won't occur"
+423,12476874591,"For problems X and Y, Y is NP-complete and X reduces to Y in polynomial time. Which of the following is TRUE?
+1. If X can be solved in polynomial time, then so can Y
+2. X is NP-complete
+3. X is NP-hard
+4. X is in NP, but not necessarily NP-complete"
+424,12476874592,"A farmer desires to run a diesel engine developing a brake power of 1.5 kW, 
+continuously for 2 hours using biogas and diesel in a dual fuel mode. If gas 
+requirement for running the engine in dual fuel mode is 0.67 m^3.kW^-1.h^-1, the 
+minimum size of KVIC model biogas plant with a gas holding capacity of 60 % 
+suitable for running this diesel engine, in m^3, is __________. (Answer in integer)"
+425,12476874593,"An accelerator mounted to the waist of a seated tractor operator records an RMS 
+acceleration of 2.5 m.s^-2. By improving the seat design, the vibration acceleration 
+level is decreased by 5 dB. After improvement, the RMS acceleration, in m.s^-2, is 
+__________. (Rounded off to 3 decimal places) "
+426,12476874594,"A two-wheel drive tractor having a total weight of 20 kN is pulling an implement at 
+an actual speed of 3 km.h^-1. The ratio of axle power (kW) to dynamic weight (kN) on 
+the rear axle is expressed as 1.79/V, where, V is the theoretical forward speed in  
+km.h^-1. During pulling the implement, the weight distribution on the front and rear 
+axles of the tractor is 40 % and 60 % of the total weight, respectively, with wheel slip 
+12 % and coefficient of net traction 0.42. The tractive efficiency, in %, is 
+__________. (Rounded off to 2 decimal places) "
+427,12476874595,"A tractor drawn boom type sprayer fitted with 12 nozzles at a spacing of 50 cm is 
+used to carryout spraying at a forward speed of 3.5 km.h^-1 and nozzle pressure of             
+250 kPa for an application rate of 1.5 m^3.ha^-1. Out of the total discharge from the 
+pump, 12 % is bypassed to the liquid tank and the total pressure drop in all pipe lines 
+from the pump is 10 % of the pressure developed by the pump. Considering the pump 
+efficiency as 60 %, if the nozzle pressure is increased by 10 %, the power required to 
+operate the pump, in kW, is __________. (Rounded off to 3 decimal places) "
+428,12476874596,"A catchment with 5 rain gauge stations recorded annual rainfall of 90, 100, 80, 120, 
+and 110 cm, respectively. Considering 5 % error in estimation of the mean annual 
+rainfall, additional number of rain gauge stations required is __________. (Answer in 
+integer) "
+429,12476874597,"A soil sample of diameter 70 mm was used for constant head permeability test. The 
+observed head loss was 80 mm in the soil sample length of 100 mm and water 
+collected in one minute was 60 mL. The coefficient of permeability, in mm.s^-1, is 
+__________. (Rounded off to 2 decimal places)  "
+430,12476874598,"In an area, one tubewell of 15 cm diameter was operating such that groundwater table 
+is 40 m above the bottom of screen. The groundwater formation has permeability (K) 
+as 20 m.d-1 and well has radius of influence of 980 m with a maximum drawdown of 
+12 m. After some time, a second tubewell of same size was installed at a distance of 
+500 m from the first tubewell. If both the tubewells are running simultaneously and 
+have equal discharge, the loss of discharge in the first tubewell due to installation of 
+the second tubewell, in %, is __________. (Rounded off to 2 decimal places) "
+431,12476874599,"In a semi-arid region with land slope of 3 %, contour bunding is planned to conserve 
+and store the rain water. In 10 years return period, the daily effective rainfall is 
+estimated as 20 cm maximum in the region. If the horizontal spacing between the 
+bunds is 30 m, the designed height of the bund, in m, is __________. (Rounded off to 
+2 decimal places) "
+432,12476874600,"A single acting reciprocating pump, running at 40 rpm, has piston of 20 cm diameter 
+and stroke length of 40 cm. The suction and delivery heads are 5 m and 20 m, 
+respectively. Assuming overall pump efficiency as 80 %, the power requirement of 
+the pump, in kW, is __________. (Rounded off to 2 decimal places) "
+433,12476874601,"A steam jacketed kettle is filled with a 250 kg liquid food with a specific heat of  
+3.1 kJ.kg^-1.K^-1. Steam used at 121 °C has a heat transfer coefficient of 2 kW.m^-2.K^-1. 
+The area of heat transfer is 0.15 m^2. Using lumped capacity method, the time required 
+to heat the product from 30 °C to 95 °C, in minutes, is __________. (Rounded off to 
+2 decimal places) "
+434,12476874602,"Fruit juice entering at 30 °C is being pasteurized in a double pipe counter flow heat 
+exchanger using hot water entering at 97 °C and leaving at 65 °C. Specific heat of 
+juice and water are 3.8 kJ.kg^-1.K^-1 and 4.2 kJ.kg^-1.K^-1, respectively. Flow rate of juice 
+is 0.3 kg.s^-1 and that of water is 0.4 kg.s^-1. Considering an overall heat transfer 
+coefficient of 1 kW.m^-2.K^-1, the area of heat exchanger required, in m^2, is 
+__________. (Rounded off to 3 decimal places) "
+435,12476874603,"Mango pulp at an initial temperature of 25 °C and a moisture content of 70 % (wb) is 
+to be dried into leather to a final moisture content of 10 % (wb) using hot air at  
+95 °C. The latent heat of vaporization of water at 95 °C and at standard atmospheric 
+pressure is 2250 kJ.kg^-1. Considering the specific heat of mango pulp as                        
+3.8 kJ.kg^-1.°C^-1, the energy required for drying per kg of mango pulp, in kJ, is 
+__________. (Rounded off to 1 decimal place)   "
+436,12476874604,"Fish fillets at −1 °C are being frozen in Individual Quick Freezing (IQF) system using 
+air at −40 °C.  The product has a characteristic dimension of 10 cm with a density of 
+1200 kg.m^-3. Thermal conductivity of the product is 2.5 W.m^-2.K^-1, the convective 
+heat transfer coefficient is 100 W.m^-2.K^-1 and the latent heat of fusion is 300 kJ.kg^-1. 
+If the fillet is considered as an infinite plate, the freezing time, in minutes, is 
+__________. (Rounded off to 2 decimal places) "
+437,12476874605,"A ramp with a slope of 1:12 is required for wheelchair access. Intermediate landings 
+of length 1.5 m each have to be provided after every 9 m running length. The  
+running length of a straight ramp including landing, to negotiate a level difference 
+of 900 mm vertical height, in m, is _____________ (rounded off to two decimal 
+places). "
+438,12476874606,"At present, the cost of a new office equipment is 50,000 (in Indian Rupees). It has 
+15% salvage value after a useful life of 5 years. Using straight line method of 
+depreciation, the book value of the equipment 3 years from now, in Indian Rupees, 
+will be _____________ (in integer). "
+439,12476874607,"A real estate developer is developing a township on a PPP mode. The total area of 
+the site is 2.672 hectares with an allowable FAR of 2.25, of which 20% is earmarked 
+for MIG category. The gross area of each MIG unit including common areas and 
+services is 72 m^2. Assuming super built up area to be same as FAR, the  
+maximum number of MIG apartments that can be constructed  
+is _____________ (in integer). "
+440,12476874608,"A group of four people were residing together when a new virus was detected. If 
+the probability of each person being infected is 0.1, then the probability that at least 
+two of them are infected is ____. Give your answer rounded off to 3 decimal places.  "
+441,12476874609,"A cylindrical engineered tissue was developed with a diameter of 2 cm, height of 3 
+cm and Young’s modulus of 20 MPa. If an axial tensile force of 10 N is applied, the 
+percentage change in the height of the tissue is ______ %. Give your answer 
+rounded off to 2 decimal places. "
+442,12476874610,"The measured current through a device is 5 A, the voltage measured across the 
+device is 20 V. The ammeter and the voltmeter used for these measurements have 
+a measurement uncertainty of 1% each. The maximum error in estimation of 
+impedance of the device is _______ mΩ. Give your answer rounded to the nearest 
+integer. "
+443,12476874611,"A DNA extract solution with a concentration of 15 ng/µL placed in a micro-cuvette of 
+sample thickness 0.5 mm gave an absorbance of 0.24 at a wavelength of 260 nm in a 
+spectrophotometer. After further concentration, the sample was found to give an 
+absorbance of 0.38 at the same wavelength under identical conditions. The final 
+concentration of the sample is ______ ng/µL. (Give your answer rounded off to 2 
+decimal places.) "
+444,12476874612,"An X-ray beam of initial intensity I0 of 70 keV imaging the chest is assumed to undergo 
+attenuation through the muscle tissue for a thickness of 16 cm and further through the 
+bone tissue for a thickness of 4 cm. The half value layer (HVL) thicknesses for the 
+muscle and bone are 3.5 cm and 1.8 cm, respectively. The percentage of X-ray 
+intensity transmitted through the body is ______. Give your answer rounded off to 2 
+decimal places."
+445,12476874613,"A person standing one meter away from a 4000 curie radioactive source receives a 
+lethal dose of radiation in about 5 minutes. At 3 meters away from the same source, 
+the time in which he will receive the same lethal dose is ______ minutes. Give your 
+answer rounded off to the nearest integer."
+446,12476874614,"The bandwidth of ECG signal ranges from 0.5 Hz to 100 Hz. If a single ADC is used 
+to digitize data from 8 ECG channels then the minimum ADC sampling rate is ______ 
+Hz. Give your answer rounded off to the nearest integer."
+447,12476874615,"A bio-potential signal of 4 mV on the skin surface was fed to an amplifier with a 
+differential gain of 2000. The noise in the signal is 1000 mV. If the amplifier output 
+produces a noise output of 200 mV, the common mode rejection ratio of the amplifier 
+is ______ dB. Give your answer rounded to the nearest integer."
+448,12476874616,"In a motor nerve conduction velocity experiment, the distance between the distal and 
+the recording sites is 4 cm and the distance between the proximal and the recording 
+sites is 24 cm. The distal and proximal latencies were recorded as 6 ms and 10 ms, 
+respectively. The nerve conduction velocity is _____ meters per second. Give your 
+answer rounded off to the nearest integer."
+449,12476874617,"An artificial fore-arm has a moment-of-inertia around the center of mass as 0.3kg.m^2.  
+The mass of the artificial fore-arm is 3 kg. If the distance from the elbow joint to the 
+center of mass of the fore-arm is 20 cm, the moment-of-inertia of the fore-arm about 
+the elbow joint is ______ kg.m^2. Give your answer rounded off to two decimal places."
+450,12476874618,"Consider the following sample of numbers:  9, 18, 11, 14, 15, 17, 10, 69, 11, 13 The median of the sample is "
+451,12476874619,"The number of coins of ₹1, ₹5, and ₹10 denominations that a person has are in the  ratio 5:3:13. Of the total amount, the percentage of money in ₹5 coins is"
+452,12476874620,"A rectangular paper of 20 cm × 8 cm is folded 3 times. Each fold is made along the line of symmetry, which is perpendicular to its long edge. The perimeter of the final folded sheet (in cm) is"
+453,12476874621,How many independent material constants in solids are required to define isotropic materials?
+454,12476874622,The arc length of the one arch of the cycloid given by 𝑥=𝑡− sin𝑡 and 𝑦=1− cos𝑡 is ________. 
+455,12476874623,"A 10 m long pipe with inlet and outlet diameters of 40 cm and 20 cm respectively, is carrying an incompressible fluid with a flow rate of 0.04 m3/s. The ratio of the velocity at the outlet to that at the inlet is _____ (rounded off to one decimal place)"
+456,12476874624,An 80 m long barge with rectangular cross-section of 12 m beam and 4 m draft floats at even keel. The transverse metacenter (KM) above the keel is _______ m.
+457,12476874625,A 100 m long ship has a cruising speed of 25 knots. A geometrically similar model of 4 m length is used for resistance prediction in a towing tank. The corresponding speed of the model is ___________ knots.
+458,12476874626,"A cube-shaped pontoon with 200 tonnes of mass placed on it, floats with a freeboard of 1 m in fresh water. When the mass is removed, the pontoon floats with a freeboard of 3 m. The length of the pontoon is ______ m (rounded off to two decimal places)."
+459,12476874627,"If 𝑋 is a Poisson random variable with mean 𝜇=1, then the conditional probability of the event {𝑋≥2} given that the event {𝑋≥4} has occurred, is ________ (rounded off to two decimal places)."
+460,12476874628,A ship travelling in head seas experiences a bending moment of 200 MN-m. The ship’s cross section is assumed to be a box girder of 30 m beam and 10 m depth with a 10 mm plate thickness. The maximum bending stress is _______ MPa (rounded off to the nearest integer).
+461,12476874629,"A single degree of freedom system has a mass, stiffness and damping of 200 kg,     20 N/m and 62 N-s/m respectively. For a forced oscillation system, if the excitation frequency is equal to the undamped natural frequency, then the dynamic magnification factor is ________ (rounded off to three decimal places)."
+462,12476874630,"Consider a thin-walled closed cylindrical steel vessel with an internal pressure of    2 N/mm2. The inner diameter is 1 m, and the thickness of the wall is 10 mm. The hoop stress is _______ N/mm2 (rounded off to one decimal place)."
+463,12476874631,"A propeller disc of diameter 2 m produces a thrust of 88 kN while advancing at a speed of 5 m/s in fresh water of density 1000 kg/m3. Based on the axial momentum theory, the propeller efficiency is _____________ % (rounded off to one decimal place)."
+464,12476874632,"A ship of 5000 tonnes displacement has a rectangular tank 6 m long and 10 m wide, half-filled with oil of relative density 0.8. The virtual reduction in the transverse metacentric height of the ship due to free surface effect of the oil in the tank is ______ cm."
+465,12476874633,"An ocean wave of period 8 s and height 2 m is propagating in the Indian Ocean from south to north. According to linear wave theory, for the wave to be considered as a deep-water wave, the minimum water depth should be ______ m (rounded off to the nearest integer)."
+466,12476874634,"Consider a gas turbine combustor with air as the working fluid. The flow enters the device at 500 K and leaves at 1400 K with a mass flow rate of 0.1 kg/s.  The changes in kinetic energy and potential energy of the flow are neglected. Assuming            𝐶𝑣=0.717 kJ/kg-K and R = 0.287 kJ/kg-K, the rate of heat addition is ______ kW (rounded off to the nearest integer)."
+467,12476874635,"Consider a circular cylinder of diameter 0.5 m and length 2 m, rotating in clockwise direction at a speed of 100 rpm in a flow of velocity 2 m/s. Assume the density of the fluid as 1.225 kg/m3 and  = 3.14. By Kutta-Joukowski theorem, the lift force on the cylinder is _______ N (rounded off to the nearest integer)."
+468,12476874636,"If the sum of the first 20 consecutive positive odd numbers is divided by 202, the result is"
+469,12476874637,"The ratio of the number of girls to boys in class VIII is the same as the ratio of the number of boys to girls in class IX. The total number of students (boys and girls) in classes VIII and IX is 450 and 360, respectively. If the number of girls in classes VIII and IX is the same, then the number of girls in each class is"
+470,12476874638,The number of ways in which a supervisor can choose four workers out of 10 equally competent workers is _________. 
+471,12476874639,"Shear wave velocity (𝑉s) in a limestone formation is 3600 m/s. Assume that the modulus of incompressibility (K) is twice that of the modulus of rigidity (G), and the bulk density (𝜌𝑏) of the formation is 2700 kg/m3.  For this limestone formation, the compressional wave velocity (𝑉p) is _________ m/s"
+472,12476874640,"A surfactant enhanced oil recovery process has been employed using a five-spot injection pattern on a sandstone reservoir. The reservoir has the following properties. Reservoir area, 𝐴=20 acres Reservoir thickness, ℎ=25 ft Porosity of the reservoir, Φ=0.20 Residual oil saturation at the termination of waterflood, 𝑆orw=0.30 Residual oil saturation left by surfactant flood, 𝑆orc=0.10 Oil formation volume factor, 𝐵o=1.05 reservoir bbl/STB Volumetric sweep efficiency, 𝐸v=1 The initial oil saturation of the reservoir = 0.75.  The ratio of oil displaced due to surfactant flood to the original oil in place at reservoir condition is __________ (round off to two decimal places). (Take: 1 acre = 43560 ft2, 1 bbl = 5.615 ft3)."
+473,12476874641,"The diameter and draft of a freely floating classical upright spar without moonpool is 30 m and 75 m, respectively. The added mass in heave mode is 1.8 times the mass of the spar.  The critical damping of the spar in heave mode is _______ ×106 kg/s (round off to one decimal place). Take, 𝜋=3.14.  Density of seawater = 1025 kg/m3.  Acceleration due to gravity =  10 m/s2. "
+474,12476874642,"A long vertical hollow steel pipe used as a column in an offshore structure follows Euler’s column theory. The length, outer diameter and thickness of the pipe are            30 m, 0.50 m, and 0.03 m, respectively.  The Euler buckling load (assuming no environmental loads) of the pipe pinned at both the ends, is _______ kN (round off to one decimal place).   Take 𝜋=3.14.  Young’s modulus of elasticity for steel = 210 GPa. "
+475,12476874643,A two-cylinder reciprocating positive-displacement mud pump is used for mud circulation. The pump can deliver fluid on both forward and backward piston strokes. The pump has the following specifications: Liner diameter = 15 cm. Piston rod diameter = 6 cm. Stroke length = 40 cm. Volumetric efficiency = 85%. Take π = 3.14. The total volume of fluid displaced per complete pump cycle is ___________ cm3.
+476,12476874644,The invasion of a drilling fluid to a radius of 3 feet from the center of the well-bore into the formation has resulted in the development of skin. The permeability of the skin zone (region affected by the drilling fluid invasion) is 50 mD. The permeability of the unaffected formation is 400 mD. The well bore radius is 0.25 feet.  The value of the skin factor is______________ (round off to two decimal places).
+477,12476874645,"Find the odd one out in the set: {19, 37, 21, 17, 23, 29, 31, 11} "
+478,12476874646,"In the following series, identify the number that needs to be changed to form the Fibonacci series.  1, 1, 2, 3, 6, 8, 13, 21,… "
+479,12476874647,"Take two long dice (rectangular parallelepiped), each having four rectangular faces labelled as 2, 3, 5, and 7. If thrown, the long dice cannot land on the square faces and has 1/4 probability of landing on any of the four rectangular faces. The label on the top face of the dice is the score of the throw.  If thrown together, what is the probability of getting the sum of the two long dice scores greater than 11? "
+480,12476874648,"An atom is subjected to a weak uniform magnetic field 𝐵 ⃗ . The number of lines in its Zeeman spectrum for transition from 𝑛 = 2,𝑙 = 1 to 𝑛 = 1,𝑙 = 0 is  "
+481,12476874649,"How many 4-digit positive integers divisible by 3 can be formed using only the digits {1,3,4,6,7}, such that no digit appears more than once in a number?"
+482,12476874650,"The probability of a boy or a girl being born is 1/2. For a family having only  three children, what is the probability of having two girls and one boy?"
+483,12476874651,"The solidification time of a cube and a cylinder of the same material, produced through the same sand casting process, is found to be equal. Each side of the cube is 𝑎, and the radius and the length of the cylinder are 𝑟 and 4𝑟, respectively. If the solidification time is governed by Chvorinov’s equation, then the ratio 𝑟/𝑎 is "
+484,12476874652,A blank of 100 mm diameter is to be cut out of a 2 mm thick sheet through blanking operation. If the radial clearance between the punch and die is 6% of the sheet thickness then the diameter (in mm) of the punch is _________ . (Rounded off to 2 decimal places)
+485,12476874653,"In the iron-carbon equilibrium phase diagram, the temperature and composition  of the eutectoid point are 727 ºC and 0.77 weight % carbon, respectively. If a  steel specimen with 1.2 weight % carbon is cooled from 1000 ºC to the room temperature, then the fraction of pro-eutectoid cementite phase in the steel  is ____ (Rounded off to 2 decimal places)"
+486,12476874654,"Seven cards numbered 1 to 7 are placed in a box. After thoroughly mixing all  the cards, one card is drawn at random. If it is known that the number on the card drawn is odd, then the probability  that the number on the card drawn is greater than 4 is __________ %."
+487,12476874655,"An irrigation pump is used to draw water from a pond. One end of a 5.05 cm diameter hose pipe is connected to the outlet of the pump at 1.02 m below the surface level, and just after the pump, the static gauge pressure and flow rate of the water are 50 kPa and 8 kg/s, respectively. The pumped water is discharged at the ground level through a nozzle. Assume that the flow through the hose pipe and nozzle is steady and laminar, and frictional and viscous losses are negligible. The density of water is 1000 kg/m3 and the acceleration due to gravity is 9.81 m/s2. If the static pressure at the nose/exit of the nozzle just reduces to atmospheric pressure then the nose diameter (in cm) of the nozzle is ___________ . (Rounded off to 2 decimal places)"
+488,12476874656,"A metallic cylindrical pressure vessel, used to store compressed air in a plant, has 1 m mean radius and 4 mm wall thickness. The maximum allowable normal and shear stresses in the cylindrical portion of the vessel are 100 MPa and 40 MPa, respectively. Considering only these data in the design, the maximum allowable internal gauge pressure (in MPa) of the compressed air is ___________ . (Rounded off to 2 decimal places)"
+489,12476874657,"Mild steel plates are welded to make butt joints by arc welding with 85% heat transfer efficiency ignoring other losses. The first weld joint is made by selecting arc voltage of 30 V and current of 180 A with a welding speed of 6 mm/s. Using identical plates, a second weld joint is made with the same arc voltage and a welding speed of 8 mm/s. If both the welds have the same heat input, then the welding current (in A) for the second weld joint is _________ . (Answer in integer"
+490,12476874658,"In a single pass cold rolling operation, a flat plate is reduced to a thickness of 3 mm. In this operation, two rolls of diameter 400 mm each are rotating in opposite direction at 300 RPM, and the elastic deflection of these rolls is negligible. The angle of bite is 10º. If the neutral point is present at an angle of 7º from the exit side, then the thickness of the plate (in mm) at the neutral point is _________ .  (Rounded off to 1 decimal place) "
+491,12476874659,"The following data are given in relation to turning operation of a cylindrical workpiece.  Diameter of the workpiece = 160 mm, length of the workpiece = 190 mm, cutting velocity = 80π m/min, and tool feed = 0.2 mm/rev.  Assuming the approach and the overrun of the tool to be 5 mm each, the machining time (in minutes) is _________ . (Answer in integer)"
+492,12476874660,The pitch of a metric screw thread is calculated from pitch circle diameter measurement through two-wire method. If the thread is single-start with calculated pitch of 1.4 mm then the diameter (in mm) of the best-wire is __________ .  (Rounded off to 2 decimal places) 
+493,12476874661,"During orthogonal turning, the cutting speed, feed and depth of cut are set as 2 m/s, 0.2 mm/rev and 2 mm, respectively. The specific cutting energy (neglecting the effect of feed force on the total cutting power) is 2 J/mm3. The main cutting force (in N) is __________ . (Answer in integer) "
+494,12476874662,"Electro-chemical machining is performed on a flat copper workpiece. If the material removal rate is 2 cm3/min throughout the process, then the required current (in A) is _________ . (Rounded off to 1 decimal place) Copper properties: Melting point = 1085 ºC, density = 9 g/cm3, gram atomic weight = 63, and valency of dissolution = 2 Faraday’s constant = 96500 C  Stefan-Boltzmann constant =5.67×10−8 W/m2-K4"
+495,12476874663,"A repairable machine operated for 2400 hours in a year and for that year the machine broke down 8 times. The mean time to repair including waiting time  is found to be 20 hours for that year. If the mean time to repair including waiting time could have been reduced to  10 hours for that year, then the improvement in the availability of that machine would be ___________ %. (Rounded off to 2 decimal places)"
+496,12476874664," In a time study, the average time taken for packaging a product in a warehouse by a worker with 120% performance rating is observed as 9 minutes. Assuming an allowance of 10% of the standard time, the standard time (in minutes) for packaging is _________ . (Answer in integer) "
+497,12476874665,"An assembly line consists of three work stations (S1, S2 and S3) in series to assemble a toy. The times required to perform tasks at these stations are 6, 4 and T minutes, respectively. If the efficiency of the assembly line in the steady state is 75%, then the maximum value of T (in minutes) is ____________.  (Answer in integer)"
+498,12476874666,"A company orders an item using the classical economic order quantity formula. If the ordering cost per order is increased by 20% and the demand per unit time is also increased by 20%, then the time between orders increases (in %) by ________ . (Answer in integer)"
