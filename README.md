@@ -1,6 +1,6 @@
 **README**
 
-This repository contains code for solving complex numerical, logical, and algorithmic questions using advanced techniques such as prompt engineering and chain of thought, with the aim of improving the performance of Language Model (LLM) systems. The provided code is specifically designed for solving such tasks where traditional LLMs struggle due to the requirement of logical thinking and problem-solving skills.
+This repository contains code for solving complex numerical, logical, and algorithmic questions using advanced techniques such as prompt engineering and chain of thought, with the aim of improving the performance of Language Model (LLM) systems. The provided code is specifically designed for solving such tasks where traditional LLMs struggle due to the requirement of logical thinking and problem-solving skills. Here, Gemini API has been used.
 Dataset Link: https://www.kaggle.com/competitions/zero-shot-question-answering
 
 **File Structure:**
